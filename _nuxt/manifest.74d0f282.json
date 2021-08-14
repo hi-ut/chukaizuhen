@@ -1,0 +1,12 @@
+{
+  "name": "籌海図編",
+  "short_name": "水経注",
+  "description": "籌海図編のプロトタイプシステムです。",
+  "icons": [],
+  "start_url": "/chukaizuhen/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}
