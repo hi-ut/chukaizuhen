@@ -1,69 +1,61 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="bh">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="bh" />
     <v-container class="my-5">
       <h2 class="mb-5">{{ $t('category') }}</h2>
+
+      <p>
+        正保の琉球国絵図３舗に書き込まれた文字などの情報（全895件）につき、島や村などの分類によって検索できます。
+      </p>
 
       <v-simple-table>
         <template v-slot:default>
           <thead>
             <tr>
-              <th>{{$t("name")}}</th>
+              <th>{{ $t('name') }}</th>
               <!-- <th></th> -->
             </tr>
           </thead>
           <tbody>
             <template v-for="(agg, key) in aggs">
-            <tr  :key="key" v-if="!agg.hide">
-              <td>
-                <nuxt-link
+              <tr :key="key" v-if="!agg.hide">
+                <td>
+                  <nuxt-link
                     :to="
                       localePath({
                         name: 'category-slug',
-                        params: {slug: key}
+                        params: { slug: key },
                       })
                     "
                   >
-                    {{agg.label}}
-                    </nuxt-link>
-                    </td>
+                    {{ agg.label }}
+                  </nuxt-link>
+                </td>
 
-                    <!--
+                <!--
                     <td>
                       {{100}} {{$t("results")}}
                     </td>
                     -->
-                    </tr>
-                    </template>
-                    </tbody>
-                    </template>
+              </tr>
+            </template>
+          </tbody>
+        </template>
       </v-simple-table>
-                    
-
-      
     </v-container>
-
-    
   </div>
 </template>
 
 <script>
 import axios from 'axios'
-
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
 
 export default {
-  components: {},
+  components: {
+    Breadcrumbs,
+  },
   data() {
     return {
-
       aggs: process.env.aggs,
 
       bh: [
@@ -76,13 +68,10 @@ export default {
         {
           text: this.$t('category'),
         },
-      ]
+      ],
     }
   },
 
-  
-
-  
   head() {
     return {
       title: this.$t('category'),

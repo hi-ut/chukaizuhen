@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/剣.json",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "分類: 武器"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/7781e90c05bef0c3bd595145934d6c57.jpg"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p44#xywh=818,571,2338,3284"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "剣"
+      }
+    ]
+  }
+]

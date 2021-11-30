@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/偃月刀.json",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "分類: 武器"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e03df50c67b6d85072820bf5a0011e2b.jpg"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p43#xywh=842,534,2306,3327"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "偃月刀"
+      }
+    ]
+  }
+]

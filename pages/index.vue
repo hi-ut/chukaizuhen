@@ -27,21 +27,87 @@
         <h3 class="mt-5 mb-10 text-center">{{ $t('menu') }}</h3>
 
         <v-row class="mb-10">
-          <v-col v-for="(obj, key) in items" :key="key" cols="12" :sm="3">
+          <v-col v-for="(obj, key) in items" :key="key" cols="12" :sm="6">
+            <v-card flat outlined no-body class="mb-4 pa-4">
+              <template v-if="obj.href">
+                <a :href="obj.href" target="_blank">
+                  <template v-if="obj.img">
+                    <div
+                      class="text-center grey lighten-2"
+                      style="height: 150px"
+                    >
+                      <v-img contain style="height: 150px" :src="obj.img" />
+                    </div>
+                  </template>
+                  <template v-else>
+                    <div
+                      class="text-center grey lighten-2 pa-10"
+                      style="height: 150px"
+                    >
+                      <v-icon size="75">{{ obj.icon }}</v-icon>
+                    </div>
+                  </template>
+                </a>
+                <div class="pa-4">
+                  <a :href="obj.href" target="_blank">
+                    <h4>{{ obj.label }}</h4>
+                  </a>
+
+                  <p v-if="obj.description" class="mt-2 mb-0">
+                    {{ obj.description }}
+                  </p>
+                </div>
+              </template>
+              <template v-else>
+                <v-row>
+                  <v-col md="4" cols="12">
+                    <nuxt-link :to="localePath(obj.path)">
+                      <!-- lighten-2 grey -->
+                      <div class="text-center pa-10" style="height: 150px">
+                        <v-icon size="75">{{ obj.icon }}</v-icon>
+                      </div>
+                    </nuxt-link>
+                  </v-col>
+                  <v-col>
+                    <div class="px-4">
+                      <nuxt-link :to="localePath(obj.path)">
+                        <h4>{{ obj.label }}</h4>
+                      </nuxt-link>
+
+                      <p
+                        v-if="obj.description"
+                        class="mt-2 mb-0"
+                        v-html="obj.description"
+                      ></p>
+                    </div>
+                  </v-col>
+                </v-row>
+              </template>
+            </v-card>
+          </v-col>
+          <v-col
+            v-if="false"
+            v-for="(obj, key) in items"
+            :key="key"
+            cols="12"
+            :sm="3"
+          >
             <v-card flat no-body class="mb-4">
               <template v-if="obj.href">
                 <a :href="obj.href" target="_blank">
                   <template v-if="obj.img">
-                    <div class="text-center grey lighten-2" style="height: 150px">
-                      <v-img
-                        contain
-                        style="height: 150px"
-                        :src="obj.img"
-                      />
+                    <div
+                      class="text-center grey lighten-2"
+                      style="height: 150px"
+                    >
+                      <v-img contain style="height: 150px" :src="obj.img" />
                     </div>
                   </template>
                   <template v-else>
-                    <div class="text-center grey lighten-2 pa-10" style="height: 150px">
+                    <div
+                      class="text-center grey lighten-2 pa-10"
+                      style="height: 150px"
+                    >
                       <v-icon size="75">{{ obj.icon }}</v-icon>
                     </div>
                   </template>
@@ -58,7 +124,10 @@
               </template>
               <template v-else>
                 <nuxt-link :to="localePath(obj.path)">
-                  <div class="text-center grey lighten-2 pa-10" style="height: 150px">
+                  <div
+                    class="text-center grey lighten-2 pa-10"
+                    style="height: 150px"
+                  >
                     <v-icon size="75">{{ obj.icon }}</v-icon>
                   </div>
                 </nuxt-link>
@@ -67,9 +136,11 @@
                     <h4>{{ obj.label }}</h4>
                   </nuxt-link>
 
-                  <p v-if="obj.description" class="mt-2 mb-0">
-                    {{ obj.description }}
-                  </p>
+                  <p
+                    v-if="obj.description"
+                    class="mt-2 mb-0"
+                    v-html="obj.description"
+                  ></p>
                 </div>
               </template>
             </v-card>
@@ -90,6 +161,19 @@
 
       <br />
     </v-container>
+
+    <v-sheet color="grey lighten-3" class="">
+      <v-container class="mt-5 py-10">
+        <v-card-title>
+          <h2>{{ $t('updates') }}</h2>
+        </v-card-title>
+        <v-card-text>
+          <ul class="text--primary">
+            <li>2021年12月3日: システムを公開しました。</li>
+          </ul>
+        </v-card-text>
+      </v-container>
+    </v-sheet>
   </div>
 </template>
 
@@ -104,35 +188,7 @@ export default class about extends Vue {
   top: any = process.env.top
   visualization: any = process.env.visualization
 
-  items: any = [
-    {
-      label: this.$t('about_'),
-      path: {
-        name: 'page-slug',
-        params: {
-          slug: 'about'
-        }
-      },
-      description: '',
-      icon: 'mdi-information',
-    },
-    {
-      label: this.$t('search'),
-      path: {
-        name: 'search',
-      },
-      description: '',
-      icon: 'mdi-magnify',
-    },
-    {
-      label: this.$t('category'),
-      path: {
-        name: 'category',
-      },
-      description: '',
-      icon: 'mdi-tag',
-    }
-  ]
+  items: any = []
 
   head() {
     const title = this.siteName

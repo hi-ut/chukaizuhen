@@ -1,0 +1,128 @@
+{
+  "lang": "ja",
+  "siteName": "籌海図編DA",
+  "siteDesc": "国立公文書館所蔵『籌海図編』(嘉靖本) から船と武器の図を抽出した絵引です。",
+  "footer": "東京大学史料編纂所",
+  "siteKeywords": "IIIF",
+  "shortName": "籌海図編",
+  "bc": true,
+  "index": "data/index.json",
+  "aggs": {
+    "分類": {
+      "key": "分類",
+      "sort": "",
+      "label": "分類",
+      "value": {},
+      "more": false,
+      "open": true
+    }
+  },
+  "hide": ["sort"],
+  "list": [
+    {
+      "label": "分類",
+      "value": "分類"
+    }
+  ],
+  "detail": [
+    {
+      "label": "分類",
+      "value": "分類"
+    },
+    {
+      "label": "読み",
+      "value": "読み",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）階層",
+      "value": "（国立公文書館メタデータ）階層",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）請求番号",
+      "value": "（国立公文書館メタデータ）請求番号",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）人名",
+      "value": "（国立公文書館メタデータ）人名",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）数量",
+      "value": "（国立公文書館メタデータ）数量",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）書誌事項",
+      "value": "（国立公文書館メタデータ）書誌事項",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）利用制限の区分",
+      "value": "（国立公文書館メタデータ）利用制限の区分",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）言語",
+      "value": "（国立公文書館メタデータ）言語",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）巻数",
+      "value": "（国立公文書館メタデータ）巻数",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）旧蔵者",
+      "value": "（国立公文書館メタデータ）旧蔵者",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）関連事項",
+      "value": "（国立公文書館メタデータ）関連事項",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）メタデータ二次利用の可否",
+      "value": "（国立公文書館メタデータ）メタデータ二次利用の可否",
+      "type": "text"
+    },
+    {
+      "label": "（国立公文書館メタデータ）冊次",
+      "value": "（国立公文書館メタデータ）冊次",
+      "type": "text"
+    },
+    {
+      "label": "URL",
+      "value": "URL",
+      "type": "link"
+    }
+  ],
+  "sort": [{ "label": "適合度", "value": "_score" }],
+  "defaultSort": "_score:desc",
+  "layout": [
+    {
+      "label": "grid",
+      "value": "grid",
+      "icon": "mdi-view-grid",
+      "component": "search-layout-grid"
+    },
+
+    {
+      "label": "graph",
+      "value": "graph",
+      "icon": "mdi-chart-bar",
+      "component": "search-layout-graph"
+    }
+  ],
+  "defaultLayout": "grid",
+  "advanced": [],
+  "viewer": "curation",
+  "visualization": "",
+  "map": "図",
+  "curationUrl": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/icv/",
+  "size": [24, 60, 120, 512],
+  "defaultSize": 24
+}

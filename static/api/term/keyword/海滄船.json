@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/海滄船.json",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "分類: 船"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/c104f9a70d4821c86821b20f6fe5f05e.jpg"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p11#xywh=768,498,2388,3361"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "海滄船"
+      }
+    ]
+  }
+]

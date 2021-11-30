@@ -1,3 +1,3 @@
 module.exports = {
-  BASE_URL: 'https://hi-ut.github.io/chukaizuhen',
+  BASE_URL: 'https://static.toyobunko-lab.jp/suikeichuzu',
 }

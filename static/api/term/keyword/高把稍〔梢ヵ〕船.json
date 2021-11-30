@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/高把稍〔梢ヵ〕船.json",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "分類: 船"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/181c9010371f0552c5bb8bf8f032b59e.jpg"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p13#xywh=802,540,2346,3323"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "高把稍〔梢ヵ〕船"
+      }
+    ]
+  }
+]

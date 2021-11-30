@@ -1,14 +1,6 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="bh">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="bh" />
     <v-container class="my-5">
       <h1 class="mb-5">{{ page.title }}</h1>
       <nuxt-content :document="page" />
@@ -18,9 +10,11 @@
 
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator'
-
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
 @Component({
-  components: {},
+  components: {
+    Breadcrumbs,
+  },
 })
 export default class Item extends Vue {
   baseUrl: any = process.env.BASE_URL
@@ -32,10 +26,15 @@ export default class Item extends Vue {
     } else {
       lang = lang + '/'
     }
-    const page = await $content(lang + 'page/' + params.slug).fetch()
 
-    return {
-      page,
+    try {
+      const page = await $content(lang + 'page/' + params.slug).fetch()
+      return {
+        page,
+      }
+    } catch (e) {
+      const page = await $content('page/' + params.slug).fetch()
+      return { page }
     }
   }
 

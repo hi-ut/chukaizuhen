@@ -1,698 +1,2960 @@
 [
     {
-        "_updated": "2021-08-16",
-        "fulltext": "広東船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 59d5ada29036d41c225b2eb03420fd32 広東船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "広東船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p5#xywh=722,610,2413,3276",
-        "objectID": "031067f84a03e68e9f8771d196682a09",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/031067f84a03e68e9f8771d196682a09.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p5#xywh=722,610,2413,3276",
+        "objectID": "59d5ada29036d41c225b2eb03420fd32",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/59d5ada29036d41c225b2eb03420fd32.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "新会県尖尾船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 696a99d9a64ab749e385d602b9715562 新会県尖尾船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "新会県尖尾船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p6#xywh=3164,642,2413,3237",
-        "objectID": "bebd8809dc1bda3eec28cdbdd7c79795",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/bebd8809dc1bda3eec28cdbdd7c79795.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p6#xywh=3164,642,2413,3237",
+        "objectID": "696a99d9a64ab749e385d602b9715562",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/696a99d9a64ab749e385d602b9715562.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "東莞県大頭船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " dd4e0132c343a7098293011e551cd207 東莞県大頭船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "東莞県大頭船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p6#xywh=692,557,2409,3319",
-        "objectID": "59644e80f5c0afc357e3736294b5b8a4",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/59644e80f5c0afc357e3736294b5b8a4.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p6#xywh=692,557,2409,3319",
+        "objectID": "dd4e0132c343a7098293011e551cd207",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/dd4e0132c343a7098293011e551cd207.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "大福船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 06774b045b8de731c161114b1ef25a71 大福船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "大福船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p8#xywh=716,597,2401,3280",
-        "objectID": "0fcd3692b6127864fbc0a3ea1986aec8",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/0fcd3692b6127864fbc0a3ea1986aec8.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p8#xywh=716,597,2401,3280",
+        "objectID": "06774b045b8de731c161114b1ef25a71",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/06774b045b8de731c161114b1ef25a71.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "草撇船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " e45cc058b42b41179a0a7e992f68933c 草撇船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "草撇船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p10#xywh=708,557,2393,3319",
-        "objectID": "25267cc4722e6324915bbc149e63cc4e",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/25267cc4722e6324915bbc149e63cc4e.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p10#xywh=708,557,2393,3319",
+        "objectID": "e45cc058b42b41179a0a7e992f68933c",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e45cc058b42b41179a0a7e992f68933c.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "海滄船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " c104f9a70d4821c86821b20f6fe5f05e 海滄船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "海滄船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p11#xywh=768,498,2388,3361",
-        "objectID": "1fd4f8193751671dacc201caedb2a412",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/1fd4f8193751671dacc201caedb2a412.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p11#xywh=768,498,2388,3361",
+        "objectID": "c104f9a70d4821c86821b20f6fe5f05e",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/c104f9a70d4821c86821b20f6fe5f05e.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "開浪船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 44be0e3dfc285bfe9705f8c085b64759 開浪船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "開浪船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p12#xywh=787,610,2361,3292",
-        "objectID": "f3b52c5504ba71a39468d6fee8449178",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/f3b52c5504ba71a39468d6fee8449178.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p12#xywh=787,610,2361,3292",
+        "objectID": "44be0e3dfc285bfe9705f8c085b64759",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/44be0e3dfc285bfe9705f8c085b64759.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "高把稍〔梢ヵ〕船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 181c9010371f0552c5bb8bf8f032b59e 高把稍〔梢ヵ〕船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "高把稍〔梢ヵ〕船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p13#xywh=802,540,2346,3323",
-        "objectID": "419b6e06812c242ca174aec3b7b21c92",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/419b6e06812c242ca174aec3b7b21c92.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p13#xywh=802,540,2346,3323",
+        "objectID": "181c9010371f0552c5bb8bf8f032b59e",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/181c9010371f0552c5bb8bf8f032b59e.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "艟𦪞船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 6e956744d61aa1bebcd52a5387f02608 艟𦪞船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "艟𦪞船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p14#xywh=802,571,2338,3323",
-        "objectID": "a54f40cd5e603afc62cac3e0be102399",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/a54f40cd5e603afc62cac3e0be102399.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p14#xywh=802,571,2338,3323",
+        "objectID": "6e956744d61aa1bebcd52a5387f02608",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/6e956744d61aa1bebcd52a5387f02608.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "蒼山船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " a6b1ac146c16ee1178723a2ba3dc2ca4 蒼山船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "蒼山船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p15#xywh=787,501,2346,3347",
-        "objectID": "eaea0758d8614eef6339934a569cba23",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/eaea0758d8614eef6339934a569cba23.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p15#xywh=787,501,2346,3347",
+        "objectID": "a6b1ac146c16ee1178723a2ba3dc2ca4",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/a6b1ac146c16ee1178723a2ba3dc2ca4.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "八槳船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 410c731559136f16f122845c7bfff8d2 八槳船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "八槳船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p17#xywh=763,555,2369,3316",
-        "objectID": "385205614334d952ac66f017e5f1277a",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/385205614334d952ac66f017e5f1277a.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p17#xywh=763,555,2369,3316",
+        "objectID": "410c731559136f16f122845c7bfff8d2",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/410c731559136f16f122845c7bfff8d2.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "鷹船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 4d33b6856e44e58a0a52ba2ee7e8ef74 鷹船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "鷹船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p18#xywh=763,532,2361,3355",
-        "objectID": "1b614e887ba1a18e244178c71ddea63c",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/1b614e887ba1a18e244178c71ddea63c.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p18#xywh=763,532,2361,3355",
+        "objectID": "4d33b6856e44e58a0a52ba2ee7e8ef74",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/4d33b6856e44e58a0a52ba2ee7e8ef74.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "漁船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 74c52bb6d3770d54ca88d0fb4bbbb84e 漁船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "漁船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p19#xywh=763,532,2361,3331",
-        "objectID": "f8f1d178af85c20d2bd9e6087aefd475",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/f8f1d178af85c20d2bd9e6087aefd475.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p19#xywh=763,532,2361,3331",
+        "objectID": "74c52bb6d3770d54ca88d0fb4bbbb84e",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/74c52bb6d3770d54ca88d0fb4bbbb84e.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "網梭船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " a5daadce2d4f22bb30d788e0390fb242 網梭船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "網梭船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p20#xywh=763,532,2354,3331",
-        "objectID": "f961267f2f5eb77f4ce809e465904443",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/f961267f2f5eb77f4ce809e465904443.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p20#xywh=763,532,2354,3331",
+        "objectID": "a5daadce2d4f22bb30d788e0390fb242",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/a5daadce2d4f22bb30d788e0390fb242.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "両頭舡 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " f31d747b5bb34b3fc80be37c1843adcc 両頭舡 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "両頭舡",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p21#xywh=771,469,2338,3394",
-        "objectID": "38bcf94ef1946e7dbf6ad6910e2a2b3c",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/38bcf94ef1946e7dbf6ad6910e2a2b3c.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p21#xywh=771,469,2338,3394",
+        "objectID": "f31d747b5bb34b3fc80be37c1843adcc",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f31d747b5bb34b3fc80be37c1843adcc.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "蜈蚣船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 812c27bd3f21a4eaf9eacc62e537e0d7 蜈蚣船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "蜈蚣船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p22#xywh=747,501,2346,3378",
-        "objectID": "3c845aded3649de5a610798b9201d188",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/3c845aded3649de5a610798b9201d188.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p22#xywh=747,501,2346,3378",
+        "objectID": "812c27bd3f21a4eaf9eacc62e537e0d7",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/812c27bd3f21a4eaf9eacc62e537e0d7.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "沙船 船",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " f1c7e3723a3b159023549f76e572fd57 沙船 ['船'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "沙船",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p24#xywh=810,555,2346,3339",
-        "objectID": "0ec84e6c75b9aaf2f44dce63be6adf4c",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/0ec84e6c75b9aaf2f44dce63be6adf4c.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p24#xywh=810,555,2346,3339",
+        "objectID": "f1c7e3723a3b159023549f76e572fd57",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f1c7e3723a3b159023549f76e572fd57.jpg",
         "分類": [
             "船"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "粤兵盔甲 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 499ac73be91285ed6b6e673241dc734b 粤兵盔甲 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "粤兵盔甲",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p33#xywh=771,555,2354,3316",
-        "objectID": "c32f7b775a72d91646067f690a002ba1",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/c32f7b775a72d91646067f690a002ba1.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p33#xywh=771,555,2354,3316",
+        "objectID": "499ac73be91285ed6b6e673241dc734b",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/499ac73be91285ed6b6e673241dc734b.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "燕尾牌 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 0269fae15ab6aec1b541fb389e869735 燕尾牌 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "燕尾牌",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p34#xywh=755,524,2322,3339",
-        "objectID": "22c479e536be761a5e5a48fd61f24c6a",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/22c479e536be761a5e5a48fd61f24c6a.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p34#xywh=755,524,2322,3339",
+        "objectID": "0269fae15ab6aec1b541fb389e869735",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/0269fae15ab6aec1b541fb389e869735.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "挨牌 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/img/4256312"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 8c80dcb89783df4a04494e5d82eb768b 挨牌 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/img/4256312'] ['0018']",
         "label": "挨牌",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p36#xywh=755,555,2346,3308",
-        "objectID": "39ff341cf81962ada639c0ba51867253",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/39ff341cf81962ada639c0ba51867253.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p36#xywh=755,555,2346,3308",
+        "objectID": "8c80dcb89783df4a04494e5d82eb768b",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/8c80dcb89783df4a04494e5d82eb768b.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0018"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "藤牌 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 1341f0870244a3f10039415de2fc0ece 藤牌 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "藤牌",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p4#xywh=763,563,2338,3300",
-        "objectID": "6122e11ae46553fe163a786ba66d2e46",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/6122e11ae46553fe163a786ba66d2e46.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p4#xywh=763,563,2338,3300",
+        "objectID": "1341f0870244a3f10039415de2fc0ece",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/1341f0870244a3f10039415de2fc0ece.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "銅発貢〔鑛〕 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " e753bc1a5acc7c82046515ce2d9a9d77 銅発貢〔鑛〕 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "銅発貢〔鑛〕",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p5#xywh=763,595,2322,3261",
-        "objectID": "7857eaee579c45ccd94d9386d1d750cb",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/7857eaee579c45ccd94d9386d1d750cb.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p5#xywh=763,595,2322,3261",
+        "objectID": "e753bc1a5acc7c82046515ce2d9a9d77",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e753bc1a5acc7c82046515ce2d9a9d77.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "仏狼機 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 68fe12ff93de3e4502b0c58fe4732eb9 仏狼機 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "仏狼機",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p7#xywh=763,516,2361,3363",
-        "objectID": "d2638b2c81b574a2ad1c68c542d3e5ea",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/d2638b2c81b574a2ad1c68c542d3e5ea.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p7#xywh=763,516,2361,3363",
+        "objectID": "68fe12ff93de3e4502b0c58fe4732eb9",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/68fe12ff93de3e4502b0c58fe4732eb9.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "仏狼機 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 84e3d229164a940e2a7f1b6f2e15549e 仏狼機 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "仏狼機",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p8#xywh=3150,508,2369,3339",
-        "objectID": "cc037305c486d0ccd9c3eef6958ff896",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/cc037305c486d0ccd9c3eef6958ff896.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p8#xywh=3150,508,2369,3339",
+        "objectID": "84e3d229164a940e2a7f1b6f2e15549e",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/84e3d229164a940e2a7f1b6f2e15549e.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "側立 裏面鬼撑形／外形 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 9951b22fdb2d0f5bb71a1d8dac1da9dc 側立 裏面鬼撑形／外形 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "側立 裏面鬼撑形／外形",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p10#xywh=787,540,2291,3308",
-        "objectID": "f44aa37b1fffc0b1dda42a49f7368b5f",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/f44aa37b1fffc0b1dda42a49f7368b5f.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p10#xywh=787,540,2291,3308",
+        "objectID": "9951b22fdb2d0f5bb71a1d8dac1da9dc",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9951b22fdb2d0f5bb71a1d8dac1da9dc.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "鳥嘴銃 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " c5eccbf2a8ae7ffcfd199a270a536417 鳥嘴銃 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "鳥嘴銃",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p11#xywh=3134,555,2385,3308",
-        "objectID": "3e6270e225a7c983e684b204b4cc2aa0",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/3e6270e225a7c983e684b204b4cc2aa0.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p11#xywh=3134,555,2385,3308",
+        "objectID": "c5eccbf2a8ae7ffcfd199a270a536417",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/c5eccbf2a8ae7ffcfd199a270a536417.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "鳥銃 龍頭／架内搬鬼形／其鬼所勾画小出 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " f9a51f443cfc92456e0ffad9faa5b382 鳥銃 龍頭／架内搬鬼形／其鬼所勾画小出 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "鳥銃 龍頭／架内搬鬼形／其鬼所勾画小出",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p11#xywh=794,555,2314,3316",
-        "objectID": "81385c59d7d1e8db7fcb6b6ef3dde485",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/81385c59d7d1e8db7fcb6b6ef3dde485.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p11#xywh=794,555,2314,3316",
+        "objectID": "f9a51f443cfc92456e0ffad9faa5b382",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f9a51f443cfc92456e0ffad9faa5b382.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "鳥銃 後門形／銃架形… 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 12b4bbdf7a6b1dbe97b515c72cc85475 鳥銃 後門形／銃架形… ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "鳥銃 後門形／銃架形…",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p12#xywh=3134,555,2393,3300",
-        "objectID": "94d0782c07e8270f40dadf80d5aa1313",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/94d0782c07e8270f40dadf80d5aa1313.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p12#xywh=3134,555,2393,3300",
+        "objectID": "12b4bbdf7a6b1dbe97b515c72cc85475",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/12b4bbdf7a6b1dbe97b515c72cc85475.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "銃 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 2af6cb63da22830e1815d50eeb02d254 銃 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "銃",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p14#xywh=818,540,2275,3316",
-        "objectID": "0a63625586e1c0b6ff5120cb84034cfb",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/0a63625586e1c0b6ff5120cb84034cfb.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p14#xywh=818,540,2275,3316",
+        "objectID": "2af6cb63da22830e1815d50eeb02d254",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/2af6cb63da22830e1815d50eeb02d254.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "一窩蜂 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " b541a6fd0f3f6541e17435a5a1ceb9e7 一窩蜂 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "一窩蜂",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276",
-        "objectID": "9f7d1bc7b3e5f6ad668e7361fc77e841",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/9f7d1bc7b3e5f6ad668e7361fc77e841.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276",
+        "objectID": "b541a6fd0f3f6541e17435a5a1ceb9e7",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/b541a6fd0f3f6541e17435a5a1ceb9e7.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "子母炮 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 8bcbdca060cb17b57aa40565cc090df7 子母炮 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "子母炮",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p15#xywh=802,477,2283,3378",
-        "objectID": "78cc7d2ff43537fd990c4ea094ad833d",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/78cc7d2ff43537fd990c4ea094ad833d.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=802,477,2283,3378",
+        "objectID": "8bcbdca060cb17b57aa40565cc090df7",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/8bcbdca060cb17b57aa40565cc090df7.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "[タイトルなし] 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " ca52a8c333bb3330c96d05f3e6570e65 [タイトルなし] ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "[タイトルなし]",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p16#xywh=785,595,2318,3268",
-        "objectID": "84727a634f17d75e77011cc286d98e03",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/84727a634f17d75e77011cc286d98e03.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p16#xywh=785,595,2318,3268",
+        "objectID": "ca52a8c333bb3330c96d05f3e6570e65",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/ca52a8c333bb3330c96d05f3e6570e65.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "天墜砲 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 9c8c3338ec6049a872ecbdd5af2d88b4 天墜砲 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "天墜砲",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p17#xywh=763,398,2346,3480",
-        "objectID": "4da3edaf931e398f5b090a586a04ba32",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/4da3edaf931e398f5b090a586a04ba32.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p17#xywh=763,398,2346,3480",
+        "objectID": "9c8c3338ec6049a872ecbdd5af2d88b4",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9c8c3338ec6049a872ecbdd5af2d88b4.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "地雷 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 3e2fdf80fe66e468fce50ac68f6d05cf 地雷 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "地雷",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p18#xywh=818,563,2314,3308",
-        "objectID": "80f0fa438bea84625eb2a79df5edc39d",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/80f0fa438bea84625eb2a79df5edc39d.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p18#xywh=818,563,2314,3308",
+        "objectID": "3e2fdf80fe66e468fce50ac68f6d05cf",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/3e2fdf80fe66e468fce50ac68f6d05cf.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "大蜂窠 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 3bdb092f60220a7e5e030f4d30ef923d 大蜂窠 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "大蜂窠",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p19#xywh=830,589,2306,3288",
-        "objectID": "410711a7af7f558718df836a529a3bac",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/410711a7af7f558718df836a529a3bac.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p19#xywh=830,589,2306,3288",
+        "objectID": "3bdb092f60220a7e5e030f4d30ef923d",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/3bdb092f60220a7e5e030f4d30ef923d.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "火妖 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " bb6dae153753aca9d9ff94e2912b0192 火妖 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "火妖",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p20#xywh=810,579,2322,3268",
-        "objectID": "bb6ccb8a056b2090e67a9fbdc51b4100",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/bb6ccb8a056b2090e67a9fbdc51b4100.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p20#xywh=810,579,2322,3268",
+        "objectID": "bb6dae153753aca9d9ff94e2912b0192",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/bb6dae153753aca9d9ff94e2912b0192.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "火薬桶 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " b41727862fddf5d5c754eb739c30102c 火薬桶 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "火薬桶",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p22#xywh=826,603,2299,3245",
-        "objectID": "962b4bc186e97f488b456e07ed895e9c",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/962b4bc186e97f488b456e07ed895e9c.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p22#xywh=826,603,2299,3245",
+        "objectID": "b41727862fddf5d5c754eb739c30102c",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/b41727862fddf5d5c754eb739c30102c.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "火磚 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 49aa6c06a8cbda2e592ca49290920cef 火磚 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "火磚",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p23#xywh=810,540,2306,3308",
-        "objectID": "d600b23d26133b9131f182afee20e0c4",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/d600b23d26133b9131f182afee20e0c4.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p23#xywh=810,540,2306,3308",
+        "objectID": "49aa6c06a8cbda2e592ca49290920cef",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/49aa6c06a8cbda2e592ca49290920cef.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "飛天噴筒 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 9788a819e4c02489978f5f2f9d06c569 飛天噴筒 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "飛天噴筒",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p24#xywh=802,516,2306,3323",
-        "objectID": "72ebc329759d7ec552403600555b3bc1",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/72ebc329759d7ec552403600555b3bc1.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p24#xywh=802,516,2306,3323",
+        "objectID": "9788a819e4c02489978f5f2f9d06c569",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9788a819e4c02489978f5f2f9d06c569.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "礟 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 468a1449081c720d4b37a2ead34251d2 礟 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "礟",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p27#xywh=810,603,2306,3237",
-        "objectID": "20fbc27b8be976f621e1f1e351d7cd3a",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/20fbc27b8be976f621e1f1e351d7cd3a.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p27#xywh=810,603,2306,3237",
+        "objectID": "468a1449081c720d4b37a2ead34251d2",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/468a1449081c720d4b37a2ead34251d2.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "両広薬箭 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 537da63b7e120aac24ddbd9850d205be 両広薬箭 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "両広薬箭",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p28#xywh=787,548,2330,3292",
-        "objectID": "cea9accee37d8f7551100b2d10d9e751",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/cea9accee37d8f7551100b2d10d9e751.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p28#xywh=787,548,2330,3292",
+        "objectID": "537da63b7e120aac24ddbd9850d205be",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/537da63b7e120aac24ddbd9850d205be.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "辺箭 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 08614c6a2ec77327c8aeaeddbf5f48dc 辺箭 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "辺箭",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p29#xywh=800,634,2310,3237",
-        "objectID": "e4d1d03275d5e56ec2002c82855d2ed8",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/e4d1d03275d5e56ec2002c82855d2ed8.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p29#xywh=800,634,2310,3237",
+        "objectID": "08614c6a2ec77327c8aeaeddbf5f48dc",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/08614c6a2ec77327c8aeaeddbf5f48dc.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "弩箭 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 9ee4d2fcbf3f23b48bec70671c1d728e 弩箭 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "弩箭",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p30#xywh=802,540,2299,3308",
-        "objectID": "243d5c505fba6ea41965f185c0ca776e",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/243d5c505fba6ea41965f185c0ca776e.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p30#xywh=802,540,2299,3308",
+        "objectID": "9ee4d2fcbf3f23b48bec70671c1d728e",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9ee4d2fcbf3f23b48bec70671c1d728e.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "伏弩 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 9b46634d830575509cbd867128ea6d56 伏弩 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "伏弩",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p31#xywh=779,603,2330,3268",
-        "objectID": "6b30b8b762858620239816c33cf52e5d",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/6b30b8b762858620239816c33cf52e5d.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p31#xywh=779,603,2330,3268",
+        "objectID": "9b46634d830575509cbd867128ea6d56",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9b46634d830575509cbd867128ea6d56.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "[タイトルなし] 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 43bb41a8741b68e14abde4059d5b8be9 [タイトルなし] ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "[タイトルなし]",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p32#xywh=779,516,2338,3323",
-        "objectID": "ae523feb45ad5db7a82b166e4bbdf70d",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/ae523feb45ad5db7a82b166e4bbdf70d.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p32#xywh=779,516,2338,3323",
+        "objectID": "43bb41a8741b68e14abde4059d5b8be9",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/43bb41a8741b68e14abde4059d5b8be9.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "馬箭 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 6c5dc1cf6098e147ec558f23a970d929 馬箭 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "馬箭",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p33#xywh=3111,508,2306,3308",
-        "objectID": "64dd1162654d44c5a9430646875766d4",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/64dd1162654d44c5a9430646875766d4.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=3111,508,2306,3308",
+        "objectID": "6c5dc1cf6098e147ec558f23a970d929",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/6c5dc1cf6098e147ec558f23a970d929.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "馬箭 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " e80acb9e081952f071fe39b5d512b5ec 馬箭 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "馬箭",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p33#xywh=816,542,2271,3288",
-        "objectID": "8471370d13522b14fd83cdc0a0b8bea1",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/8471370d13522b14fd83cdc0a0b8bea1.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=816,542,2271,3288",
+        "objectID": "e80acb9e081952f071fe39b5d512b5ec",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e80acb9e081952f071fe39b5d512b5ec.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "火箭 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 0994893fa8f89b1d246e4d34a737287f 火箭 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "火箭",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p34#xywh=855,563,2310,3323",
-        "objectID": "fb0d3215d3d77e898e02e268ecac8d6e",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/fb0d3215d3d77e898e02e268ecac8d6e.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p34#xywh=855,563,2310,3323",
+        "objectID": "0994893fa8f89b1d246e4d34a737287f",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/0994893fa8f89b1d246e4d34a737287f.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "神機箭 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 5e6ff4e29ab20c708d12be4e275ee09e 神機箭 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "神機箭",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p35#xywh=826,550,2338,3249",
-        "objectID": "6c42c15f3f3ab13d105be73995398d9a",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/6c42c15f3f3ab13d105be73995398d9a.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p35#xywh=826,550,2338,3249",
+        "objectID": "5e6ff4e29ab20c708d12be4e275ee09e",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/5e6ff4e29ab20c708d12be4e275ee09e.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "標鎗 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 0a1423ebd4811e8d57dd260b63574732 標鎗 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "標鎗",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p36#xywh=863,471,2271,3374",
-        "objectID": "7c4b8e28558a9deed5289c642a88efba",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/7c4b8e28558a9deed5289c642a88efba.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p36#xywh=863,471,2271,3374",
+        "objectID": "0a1423ebd4811e8d57dd260b63574732",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/0a1423ebd4811e8d57dd260b63574732.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "長鎗 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " f774e7726d8d7beb48285d326e61c340 長鎗 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "長鎗",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p37#xywh=840,571,2295,3292",
-        "objectID": "d75c60d6b2b3cb34d9e5638e816a2cdc",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/d75c60d6b2b3cb34d9e5638e816a2cdc.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p37#xywh=840,571,2295,3292",
+        "objectID": "f774e7726d8d7beb48285d326e61c340",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f774e7726d8d7beb48285d326e61c340.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "𥱉筅 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 5a6d996ca40c0cafeb29d02e5fb8ade8 𥱉筅 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "𥱉筅",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p38#xywh=824,642,2303,3229",
-        "objectID": "87469032941cd6b53d2b99d5f38f7f19",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/87469032941cd6b53d2b99d5f38f7f19.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p38#xywh=824,642,2303,3229",
+        "objectID": "5a6d996ca40c0cafeb29d02e5fb8ade8",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/5a6d996ca40c0cafeb29d02e5fb8ade8.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "棍 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 43a4aaafa76e3e61169e44a3844609a1 棍 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "棍",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p40#xywh=808,555,2350,3323",
-        "objectID": "79046404c76f3778beb19160a05e9aeb",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/79046404c76f3778beb19160a05e9aeb.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p40#xywh=808,555,2350,3323",
+        "objectID": "43a4aaafa76e3e61169e44a3844609a1",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/43a4aaafa76e3e61169e44a3844609a1.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "梨花鎗 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 54e2f1691c353cc5c9d4d4c727000eab 梨花鎗 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "梨花鎗",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p41#xywh=798,608,2340,3275",
-        "objectID": "e1161c2ed9c0d9b48e63a74fde6f5993",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/e1161c2ed9c0d9b48e63a74fde6f5993.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p41#xywh=798,608,2340,3275",
+        "objectID": "54e2f1691c353cc5c9d4d4c727000eab",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/54e2f1691c353cc5c9d4d4c727000eab.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "天蓬鏟 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " c0d367373848f49a7c6c55f7d74d9939 天蓬鏟 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "天蓬鏟",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p42#xywh=808,603,2350,3268",
-        "objectID": "076f5efacaf8e45599ecb0c4ea269749",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/076f5efacaf8e45599ecb0c4ea269749.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p42#xywh=808,603,2350,3268",
+        "objectID": "c0d367373848f49a7c6c55f7d74d9939",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/c0d367373848f49a7c6c55f7d74d9939.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "偃月刀 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " e03df50c67b6d85072820bf5a0011e2b 偃月刀 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "偃月刀",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p43#xywh=842,534,2306,3327",
-        "objectID": "e91941930ccd7299e102a03e0f0941a7",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/e91941930ccd7299e102a03e0f0941a7.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p43#xywh=842,534,2306,3327",
+        "objectID": "e03df50c67b6d85072820bf5a0011e2b",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e03df50c67b6d85072820bf5a0011e2b.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "剣 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " 7781e90c05bef0c3bd595145934d6c57 剣 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "剣",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p44#xywh=818,571,2338,3284",
-        "objectID": "9cf789ff58fdd949d58ad00871c91c35",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/9cf789ff58fdd949d58ad00871c91c35.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p44#xywh=818,571,2338,3284",
+        "objectID": "7781e90c05bef0c3bd595145934d6c57",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/7781e90c05bef0c3bd595145934d6c57.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     },
     {
-        "_updated": "2021-08-16",
-        "fulltext": "𠷢枚 武器",
+        "URL": [
+            "https://www.digital.archives.go.jp/item/4256313"
+        ],
+        "_updated": "2021-12-01",
+        "fulltext": " becedb5c5763080053f1885b7fa8a65c 𠷢枚 ['武器'] 2021-12-01 ['内閣文庫 > 漢書 > 史の部'] ['２９１－００８４'] ['著者:鄭若曾（明）'] ['19冊'] ['刊本（序刊） ,明嘉靖 ,明嘉靖41年'] ['公開'] ['中国語'] ['１３巻'] ['昌平坂学問所'] ['山本北山旧蔵'] ['可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）'] ['https://www.digital.archives.go.jp/item/4256313'] ['0019']",
         "label": "𠷢枚",
-        "manifest": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
-        "member": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p45#xywh=826,555,2314,3300",
-        "objectID": "5bac338f839a5f1bd8ffcafc0384ebcd",
-        "thumbnail": "https://hi-ut.github.io/chukaizuhen_data/files/medium/5bac338f839a5f1bd8ffcafc0384ebcd.jpg",
+        "manifest": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "member": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p45#xywh=826,555,2314,3300",
+        "objectID": "becedb5c5763080053f1885b7fa8a65c",
+        "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/becedb5c5763080053f1885b7fa8a65c.jpg",
         "分類": [
             "武器"
+        ],
+        "（国立公文書館メタデータ）メタデータ二次利用の可否": [
+            "可：CC0（CC0 1.0 全世界 パブリック・ドメイン提供）"
+        ],
+        "（国立公文書館メタデータ）人名": [
+            "著者:鄭若曾（明）"
+        ],
+        "（国立公文書館メタデータ）冊次": [
+            "0019"
+        ],
+        "（国立公文書館メタデータ）利用制限の区分": [
+            "公開"
+        ],
+        "（国立公文書館メタデータ）巻数": [
+            "１３巻"
+        ],
+        "（国立公文書館メタデータ）数量": [
+            "19冊"
+        ],
+        "（国立公文書館メタデータ）旧蔵者": [
+            "昌平坂学問所"
+        ],
+        "（国立公文書館メタデータ）書誌事項": [
+            "刊本（序刊） ,明嘉靖 ,明嘉靖41年"
+        ],
+        "（国立公文書館メタデータ）言語": [
+            "中国語"
+        ],
+        "（国立公文書館メタデータ）請求番号": [
+            "２９１－００８４"
+        ],
+        "（国立公文書館メタデータ）関連事項": [
+            "山本北山旧蔵"
+        ],
+        "（国立公文書館メタデータ）階層": [
+            "内閣文庫 > 漢書 > 史の部"
         ]
     }
 ]

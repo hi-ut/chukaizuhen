@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/馬箭.json",
+    "@type": [
+      "https://jpsearch.go.jp/term/type/Keyword"
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "分類: 武器"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e80acb9e081952f071fe39b5d512b5ec.jpg"
+      }
+    ],
+    "http://schema.org/relatedLink": [
+      {
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=816,542,2271,3288"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "馬箭"
+      }
+    ]
+  }
+]

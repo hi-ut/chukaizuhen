@@ -90,3 +90,6 @@ sw.*
 *.swp
 
 .firebase
+
+src/gis/output
+*.tif

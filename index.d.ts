@@ -5,12 +5,16 @@ import i18n from 'nuxt-i18n'
 import { Utils } from '@/plugins/utils'
 
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { SearchUtils } from '@/plugins/searchUtils'
+import { es } from '@/plugins/es'
+
+/* eslint-disable @typescript-eslint/no-unused-vars */
+import { localEs } from '@/plugins/localEs'
 
 // vueインスタンス用
 declare module 'vue/types/vue' {
   interface Vue {
     readonly $utils: Utils
-    readonly $searchUtils: SearchUtils
+    readonly $es: es
+    readonly $localEs: localEs
   }
 }

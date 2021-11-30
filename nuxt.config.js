@@ -1,114 +1,57 @@
-import colors from 'vuetify/es5/util/colors'
 const fs = require('fs')
 
 const environment = process.env.NODE_ENV
 const env = require(`./env/${environment}.ts`)
 
-env.bc = true
+const conf = JSON.parse(fs.readFileSync('static/data/conf.json'))
 
-env.index = "data/index.json"
-
-env.aggs = {
-  分類: {
-    key: "分類",
-    sort: '',
-    label: '分類',
-    value: {},
-    more: false,
-    open:true
-  }
+for (let key in conf) {
+  env[key] = conf[key]
 }
-
-env.hide = ["sort"]
-
-env.list = [
-  "分類"
-]
-
-env.detail = [
-  {
-    label: "分類",
-    value: "分類"
-  },
-  {
-    label: "読み",
-    value: "読み",
-    type: "text"
-  }
-]
-
-env.sort = [
-  {label: "適合度", value: "_score"},
-]
-
-env.defaultSort = "_score:desc"
-
-env.layout = [
-  {
-    label: 'list',
-    value: 'list',
-    icon: 'mdi-view-list',
-    component: "search-layout-list"
-  },
-  {
-    label: 'grid',
-    value: 'grid',
-    icon: 'mdi-view-grid',
-    component: "search-layout-grid"
-  },
-  {
-    label: 'graph',
-    value: 'graph',
-    icon: 'mdi-chart-bar',
-    component: "search-layout-graph"
-  }
-]
-
-env.defaultLayout = "grid"
 
 const legend = JSON.parse(fs.readFileSync('static/data/legend.json'))
 env.legend = legend
 
+/*
 const kigo = []
 
-for(const key in legend){
+for (const key in legend) {
   const obj = legend[key]
   kigo.push({
     value: key,
-    text: obj.分類 + (obj.記号説明 ? ": " + obj.記号説明 : "")
+    text: obj.分類 + (obj.記号説明 ? ': ' + obj.記号説明 : ''),
   })
 }
 
-
-env.advanced = [
-  {
-    label: "分類",
-    type: "select",
-    key: "分類",
-    value: "",
-    values: ['船', '武器']
-  }
-]
-
-env.viewer = "curation"
-env.visualization = "https://nakamura196.github.io/dd2"
+console.log(JSON.stringify(kigo))
+*/
 
 const settings = JSON.parse(fs.readFileSync('static/data/settings.json'))
 env.settings = settings
 
 const norm = JSON.parse(fs.readFileSync('static/data/norm.json'))
-env.itaiji =norm
-
+env.itaiji = norm
 
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
-const routerBase =
+let routerBase =
   process.env.DEPLOY_ENV === 'GH_PAGES'
     ? {
         router: {
-          base: '/chukaizuhen/',
+          base: '/suikeichuzu/',
         },
       }
     : {}
+
+routerBase =
+  process.env.NODE_ENV === 'hi'
+    ? {
+        router: {
+          base: '/collection/degitalgallary/wakozukan/chukaizuhen/',
+        },
+      }
+    : routerBase
+
+const ssr = false //['production'].includes(process.env.NODE_ENV)
 
 // path
 const baseUrl = env.BASE_URL || ''
@@ -116,36 +59,39 @@ const baseDir = env.BASE_DIR || '/'
 const basePath = baseUrl + baseDir
 
 // meta
-const lang = 'ja'
-const siteName = '籌海図編'
+const lang = conf.lang
+const siteName = conf.siteName
 env.siteName = siteName
 
-const siteDesc = '籌海図編のプロトタイプシステムです。'
+const siteDesc = conf.siteDesc
 env.siteDesc = siteDesc
 
-const footer = '東京大学史料編纂所'
+const footer = conf.footer
 env.footer = footer
 
-const siteKeywords = 'IIIF'
+const siteKeywords = conf.siteKeywords
 
 // images
 const iconImages = baseDir + 'img/icons/'
 const ogpImages = basePath + 'img/ogp/' // cdnPath + 'img/ogp/'
 
-env.top = basePath + 'img/ogp/home.jpg'
+env.top = basePath + 'img/ogp/home.webp'
 
 // pwa
-const shortName = '水経注'
+const shortName = conf.shortName
 const manifestIcon = 'img/icons/icon-512.png'
 // const splashscreens = cdnPath + 'img/splashscreens/'
 
+env.gtag = 'G-4HCHKW275B'
+
 export default {
+  telemetry: false,
   server: {
-    port: 8003 // デフォルト: 3000
+    port: 8003, // デフォルト: 3000
   },
   // Target (https://go.nuxtjs.dev/config-target)
 
-  ssr: false,
+  ssr: env.ssr,
   target: 'static',
   // srcDir: 'src/',
 
@@ -189,7 +135,7 @@ export default {
         property: 'og:image',
         content: `${ogpImages}home.jpg`,
       },
-      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:card', content: 'summary' },
       // pwa iOS
       { name: 'apple-mobile-web-app-capable', content: 'yes' },
       {
@@ -228,11 +174,6 @@ export default {
         sizes: '180x180',
         href: iconImages + 'apple-touch-icon.png',
       },
-      {
-        rel: 'stylesheet',
-        href:
-          'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
-      },
     ],
   },
 
@@ -253,14 +194,15 @@ export default {
   loading: { color: '#E64A19', height: '5px' },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
+  css: ['~/assets/css/style.css'],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
     '@/plugins/utils.ts',
-    '@/plugins/searchUtils.ts',
-    '@/plugins/leaflet.js',
-    '@/plugins/vue-reactivesearch.js',
+    { src: '@/plugins/leaflet.js', ssr: false },
+    { src: '@/plugins/vue-scrollTo.js', ssr: false },
+    '@/plugins/es.ts',
+    '@/plugins/localEs.ts',
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
@@ -293,12 +235,12 @@ export default {
     // Simple usage
     // '@nuxtjs/amp',
     '@nuxt/content',
-    '@nuxtjs/google-gtag'
+    '@nuxtjs/google-gtag',
   ],
 
   'google-gtag': {
-    id: 'G-4HCHKW275B',  //サイトのID
-    debug: true,  // 開発環境でも表示したい場合
+    id: env.gtag, //サイトのID
+    debug: true, // 開発環境でも表示したい場合
   },
 
   sitemap: {
@@ -311,20 +253,9 @@ export default {
 
   // Vuetify module configuration (https://go.nuxtjs.dev/config-vuetify)
   vuetify: {
-    customVariables: ['~/assets/variables.scss'],
-    theme: {
-      dark: false,
-      themes: {
-        dark: {
-          primary: colors.blue.darken2,
-          accent: colors.grey.darken3,
-          secondary: colors.amber.darken3,
-          info: colors.teal.lighten1,
-          warning: colors.amber.base,
-          error: colors.deepOrange.accent4,
-          success: colors.green.accent3,
-        },
-      },
+    defaultAssets: {
+      font: false,
+      icons: 'mdi',
     },
   },
 
@@ -355,5 +286,27 @@ export default {
 
   ...routerBase,
 
-  generate: {},
+  generate: {
+    routes() {
+      return routes2()
+    },
+  },
+}
+
+function routes2() {
+  const pages = []
+  const fs = require('fs')
+  const index = JSON.parse(fs.readFileSync('static/data/index.json'))
+  for (const item of index) {
+    const id = item.objectID
+    pages.push({
+      route: `/item/${id}`,
+    })
+
+    pages.push({
+      route: `/en/item/${id}`,
+    })
+  }
+
+  return pages
 }

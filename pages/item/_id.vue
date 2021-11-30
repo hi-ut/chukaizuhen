@@ -1,16 +1,8 @@
 <template>
   <div>
-    <v-sheet color="grey lighten-2">
-      <v-container fluid class="py-4">
-        <v-breadcrumbs class="py-0" :items="breadcrumbs">
-          <template #divider>
-            <v-icon>mdi-chevron-right</v-icon>
-          </template>
-        </v-breadcrumbs>
-      </v-container>
-    </v-sheet>
+    <Breadcrumbs :items="bh" />
     <template v-if="iframeUrl">
-      <div style="background-color: #f5f5f5;">
+      <div style="background-color: #f5f5f5">
         <v-container class="py-0" style="height: 450px">
           <iframe
             :src="iframeUrl"
@@ -36,11 +28,37 @@
       </h1>
 
       <p class="text-center">
-        <v-btn v-if="viewerUrl" icon class="ma-1" target="_blank" :href="viewerUrl"
+        <v-btn v-if="false" icon class="ma-1" target="_blank" :href="rdfUrl"
+          ><img :src="baseUrl + '/img/icons/rdf-logo.svg'" width="24px"
+        /></v-btn>
+
+        <!-- てすと -->
+        <!--
+        <v-btn
+          v-if="viewerUrl"
+          icon
+          class="ma-1"
+          target="_blank"
+          :href="viewerUrl"
+          ><img :src="baseUrl + '/img/icons/icp-logo.svg'" width="24px"
+        /></v-btn>
+        -->
+
+        <v-btn
+          v-if="viewerUrl"
+          icon
+          class="ma-1"
+          target="_blank"
+          :href="viewerUrl"
           ><img :src="baseUrl + '/img/icons/icp-logo.svg'" width="24px"
         /></v-btn>
 
-        <v-btn icon class="ma-1" target="_blank" :href="baseUrl + '/data/item/' + $route.params.id + '.json'"
+        <v-btn
+          v-if="false"
+          icon
+          class="ma-1"
+          target="_blank"
+          :href="baseUrl + '/data/item/' + $route.params.id + '.json'"
           ><img :src="baseUrl + '/img/icons/json-logo.svg'" width="24px"
         /></v-btn>
 
@@ -78,7 +96,7 @@
       <v-simple-table class="mt-10">
         <template #default>
           <tbody>
-            <tr v-if="false">
+            <tr v-if="item.description && item.description[0]">
               <td class="py-4">
                 <v-row>
                   <v-col cols="12" sm="3">{{ $t('description') }}</v-col>
@@ -91,33 +109,90 @@
               </td>
             </tr>
             <template v-for="(agg, key) in aggs">
-              <tr v-if="!hide[agg.value] && item[agg.value] && item[agg.value].length > 0" :key="key">
+              <tr
+                v-if="
+                  !hide[agg.value] &&
+                  item[agg.value] &&
+                  item[agg.value].length > 0 &&
+                  item[agg.value][0]
+                "
+                :key="key"
+              >
                 <td class="py-4">
                   <v-row>
                     <v-col cols="12" sm="3">{{ $t(agg.label) }}</v-col>
                     <v-col cols="12" sm="9">
-                      <span v-for="(value, key2) in item[agg.value]" :key="key2">
+                      <span
+                        v-for="(value, key2) in item[agg.value]"
+                        :key="key2"
+                      >
                         <template v-if="agg.type === 'text'">
-                          {{value}}
+                          <template v-if="agg.value === 'jk'">
+                            <v-btn
+                              class="ma-1"
+                              rounded
+                              color="primary darken-2"
+                              depressed
+                              target="_blank"
+                              :href="`https://japanknowledge.com/psnl/display/?lid=${value}`"
+                              >Personal
+                              <v-icon class="ml-2"
+                                >mdi-exit-to-app</v-icon
+                              ></v-btn
+                            >
+
+                            <v-btn
+                              class="ma-1"
+                              rounded
+                              color="primary darken-2"
+                              depressed
+                              target="_blank"
+                              :href="`https://japanknowledge.com/lib/display/?lid=${value}`"
+                              >Lib
+                              <v-icon class="ml-2"
+                                >mdi-exit-to-app</v-icon
+                              ></v-btn
+                            >
+
+                            <v-btn
+                              class="ma-1"
+                              rounded
+                              color="primary darken-2"
+                              depressed
+                              target="_blank"
+                              :href="`https://japanknowledge-com.utokyo.idm.oclc.org/lib/display/?lid=${value}`"
+                              >東京大学限定; EZproxy
+                              <v-icon class="ml-2"
+                                >mdi-exit-to-app</v-icon
+                              ></v-btn
+                            >
+                          </template>
+                          <template v-else>
+                            {{ value }}
+                          </template>
                         </template>
                         <template v-else-if="agg.type === 'link'">
-                          <a :href="value" target="_blank">{{value}}</a>
+                          <a :href="value" target="_blank"
+                            >{{ value }}
+                            <v-icon class="ml-1" color="primary"
+                              >mdi-exit-to-app</v-icon
+                            ></a
+                          >
                         </template>
                         <template v-else>
                           <nuxt-link
-                          :to="
-                            localePath({
-                              name: 'search',
-                              query: getQuery(agg.value, value),
-                            })
-                          "
-                          >{{ value }}</nuxt-link
-                        >
+                            :to="
+                              localePath({
+                                name: 'search',
+                                query: getQuery(agg.value, value),
+                              })
+                            "
+                            >{{ value }}</nuxt-link
+                          >
                         </template>
-                        <br v-if="key2 !== item[agg.value].length - 1"/>
+                        <br v-if="key2 !== item[agg.value].length - 1" />
                       </span>
-                      </v-col
-                    >
+                    </v-col>
                   </v-row>
                 </td>
               </tr>
@@ -127,11 +202,15 @@
       </v-simple-table>
     </v-container>
 
-    <v-sheet class="text-center pa-10 mt-10" color="grey lighten-4" v-if="item.license">
+    <v-sheet
+      class="text-center pa-10 mt-10"
+      color="grey lighten-4"
+      v-if="item.license"
+    >
       <small>
         <h3 class="mb-5">{{ $t('license') }}</h3>
 
-        <License :uri="item.license"/>
+        <License :uri="item.license" />
       </small>
     </v-sheet>
 
@@ -142,39 +221,39 @@
       </div>
 
       <div class="mt-10">
-        <SimilarImages ref="mlt2" :item="item"/>
+        <SimilarImages ref="mlt2" :item="item" />
       </div>
     </v-container>
-    
-    <v-sheet class="text-center pa-10 mt-10">
-        <small>
-          <h3 class="mb-5">{{ $t('license') }}</h3>
 
-          <template v-if="$i18n.locale == 'ja'">
-            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
-              ><img
-                alt="クリエイティブ・コモンズ・ライセンス"
-                style="border-width: 0"
-                src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a
-            ><br />この作品は<a
-              rel="license"
-              href="http://creativecommons.org/licenses/by/4.0/"
-              >クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a
-            >の下に提供されています。
-          </template>
-          <template v-else>
-            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
-              ><img
-                alt="Creative Commons License"
-                style="border-width: 0"
-                src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a
-            ><br />This work is licensed under a
-            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
-              >Creative Commons Attribution 4.0 International License</a
-            >.
-          </template>
-        </small>
-      </v-sheet>
+    <v-sheet class="text-center pa-10 mt-10" color="grey lighten-4">
+      <small>
+        <h3 class="mb-5">{{ $t('license') }}</h3>
+
+        <template v-if="$i18n.locale == 'ja'">
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
+            ><img
+              alt="クリエイティブ・コモンズ・ライセンス"
+              style="border-width: 0"
+              src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a
+          ><br />この作品は<a
+            rel="license"
+            href="http://creativecommons.org/licenses/by/4.0/"
+            >クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a
+          >の下に提供されています。
+        </template>
+        <template v-else>
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
+            ><img
+              alt="Creative Commons License"
+              style="border-width: 0"
+              src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a
+          ><br />This work is licensed under a
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
+            >Creative Commons Attribution 4.0 International License</a
+          >.
+        </template>
+      </small>
+    </v-sheet>
 
     <v-sheet class="text-center pa-10 mt-10">
       <small>
@@ -198,14 +277,16 @@ import ResultOption from '~/components/display/ResultOption.vue'
 import MoreLikeThis from '~/components/item/MoreLikeThis.vue'
 import SimilarImages from '~/components/item/SimilarImages.vue'
 import License from '~/components/item/License.vue'
-import axios from "axios"
+import axios from 'axios'
+import Breadcrumbs from '~/components/common/Breadcrumbs.vue'
 
 @Component({
   components: {
     ResultOption,
     MoreLikeThis,
     SimilarImages,
-    License
+    License,
+    Breadcrumbs,
   },
 })
 export default class Item extends Vue {
@@ -213,31 +294,14 @@ export default class Item extends Vue {
 
   hide: any = process.env.hide
 
-  async asyncData({ payload, app, $axios }: any) {
+  async asyncData({ payload, app, $axios, params }: any) {
     if (payload) {
       return { item: payload }
     } else {
       const id = app.context.params.id
-
-      const response = await $axios.$get(
-        process.env.BASE_URL + '/data/item/'+id+'.json'
-      )
-      const item = response
-
-      return { item/*, docs*/ }
+      const item = await import(`~/static/data/item/${params.id}.json`)
+      return { item }
     }
-  }
-
-  async asyncData2({ app, $axios }: any) {
-    const id = app.context.params.id.trim()
-
-    const path = `~/static/data/item/${id}.json`
-
-    console.log({path})
-
-    const response = await import(path)
-
-    return {item: response}
   }
 
   baseUrl: any = process.env.BASE_URL
@@ -258,28 +322,30 @@ export default class Item extends Vue {
     return (this as any).item.label
   }
 
+  get thumbnail() {
+    return (this as any).item.thumbnail
+  }
+
   get myText() {
+    const siteName: any = process.env.siteName
+    const footer: any = process.env.footer
     if (this.$i18n.locale === 'en') {
-      const attribution = "Suikeichuzu - Toyo Bunko"
+      const attribution = this.$t(siteName) + ' - ' + this.$t(footer)
       //const attribution = provided by${(this as any).item.attribution}
-      return `"${this.title}" ${attribution} (${
-        this.url
-      })`
+      return `"${this.title}" ${attribution} (${this.url})`
     } else {
-      const attribution = "水経注図 - 東洋文庫"
-       //const attribution = 「${(this as any).item.attribution}」収録
-      return `『${this.title}』${attribution} (${
-        this.url
-      })`
+      const attribution = siteName + ' - ' + footer
+      //const attribution = 「${(this as any).item.attribution}」収録
+      return `『${this.title}』${attribution} (${this.url})`
     }
   }
 
-  get aggs(){
+  get aggs() {
     const aggs = process.env.detail
     return aggs
   }
 
-  get breadcrumbs() {
+  get bh() {
     return [
       {
         text: this.$t('index'),
@@ -300,37 +366,59 @@ export default class Item extends Vue {
   }
 
   get viewerUrl() {
-    const manifest = (this as any).item.manifest
+    const item = (this as any).item
+    const manifest = item.manifest
 
-    if(process.env.viewer === "curation"){
-      const memberId = (this as any).item.member
-      const spl = memberId.split("#xywh=")
-      return 'http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=' + manifest + '&canvas=' +
-        spl[0] + "&xywh=" + spl[1] + "&xywh_highlight=border"
+    if (process.env.viewer === 'curation') {
+      const memberId = item.member
+      const spl = memberId.split('#xywh=')
+      return (
+        process.env.curationUrl +
+        '?manifest=' +
+        item.manifest +
+        '&canvas=' +
+        spl[0] +
+        '&xywh=' +
+        spl[1] +
+        '&xywh_highlight=border'
+      )
     } else {
       return
-        ""
+      ;('')
     }
   }
 
   get iframeUrl() {
     const manifest = (this as any).item.manifest
 
-    if(process.env.viewer === "curation"){
+    if (process.env.viewer === 'curation') {
       const memberId = (this as any).item.member
-      return this.baseUrl + '/curation/?manifest=' + manifest + '&canvas=' +
+      return (
+        this.baseUrl +
+        '/curation/?manifest=' +
+        manifest +
+        '&canvas=' +
         encodeURIComponent(memberId)
+      )
     } else {
       return
-        'https://universalviewer.io/examples/uv/uv.html#?manifest=' +
+      'https://universalviewer.io/examples/uv/uv.html#?manifest=' +
         manifest +
         '&bottomPanel=true'
     }
   }
 
+  get rdfUrl() {
+    return (
+      process.env.DATA_URL +
+      '/snorql/?describe=http%3A%2F%2Fexample.org%2Fdata%2F' +
+      this.$route.params.id
+    )
+  }
+
   getQuery(key: string, value: string) {
     const map: any = {}
-    map[`main[refinementList][${key}]`] = value
+    map[`fc-${key}`] = value
     return map
   }
 
@@ -343,13 +431,16 @@ export default class Item extends Vue {
 
   head() {
     const title = this.title
+    const siteName: any = process.env.siteName
+    const footer: any = process.env.footer
     return {
       title,
       meta: [
         {
           hid: 'og:title',
           property: 'og:title',
-          content: title,
+          content:
+            '『' + title + '』' + this.$t(siteName) + ' - ' + this.$t(footer),
         },
         {
           hid: 'og:type',
@@ -365,11 +456,6 @@ export default class Item extends Vue {
           hid: 'og:image',
           property: 'og:image',
           content: (this as any).thumbnail,
-        },
-        {
-          hid: 'twitter:card',
-          name: 'twitter:card',
-          content: 'summary_large_image',
         },
       ],
     }
