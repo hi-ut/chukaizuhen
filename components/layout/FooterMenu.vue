@@ -17,6 +17,24 @@
               </template></nuxt-link
             >
           </v-col>
+          <v-col cols="12" :md="3">
+            <templete v-if="$i18n.locale !== 'en'">
+              <nuxt-link
+                style="color: white; font-size: smaller"
+                :to="switchLocalePath('en')"
+              >
+                English
+              </nuxt-link>
+            </templete>
+            <template v-else>
+              <nuxt-link
+                style="color: white; font-size: smaller"
+                :to="switchLocalePath('ja')"
+              >
+                日本語
+              </nuxt-link>
+            </template>
+          </v-col>
         </v-row>
       </v-container>
     </v-footer>
