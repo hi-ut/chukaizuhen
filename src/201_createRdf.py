@@ -7,7 +7,7 @@ import json
 import os
 all = Graph()
 
-with open("../../static/data/curation/top.json") as f:
+with open("../static/data/curation/top.json") as f:
     df = json.load(f)
 
 selections = df["selections"]
@@ -63,7 +63,7 @@ for selection in selections:
 
         ###
 
-        path = "../../static/api/{}/{}/{}.json".format(parent, tag, id)
+        path = "../static/api/{}/{}/{}.json".format(parent, tag, id)
         os.makedirs(os.path.dirname(path), exist_ok=True)
 
         item.serialize(destination=path, format='json-ld')
@@ -71,4 +71,4 @@ for selection in selections:
         for stmt in item:
             all.add(stmt)
 
-all.serialize(destination="../../static/api/data.ttl", format='turtle')
+all.serialize(destination="../static/api/data.ttl", format='turtle')

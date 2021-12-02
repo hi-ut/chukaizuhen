@@ -23,14 +23,17 @@
         <p class="py-5" v-html="siteDesc"></p>
       </div>
 
-      <div v-if="items.length > 0">
-        <h3 class="mt-5 mb-10 text-center">{{ $t('menu') }}</h3>
-
-        <v-row class="mb-10">
-          <v-col v-for="(obj, key) in items" :key="key" cols="12" :sm="6">
-            <v-card flat outlined no-body class="mb-4 pa-4">
-              <template v-if="obj.href">
-                <a :href="obj.href" target="_blank">
+      <div v-if="menu.length > 0">
+        <v-row>
+          <template v-for="(obj, key) in menu">
+            <v-col cols="6" :md="3" :key="key" v-if="obj.top">
+              <v-card flat no-body class="mb-2">
+                <component
+                  :is="obj.to ? 'nuxt-link' : 'a'"
+                  :href="obj.href || null"
+                  :target="obj.blank ? '_blank' : null"
+                  :to="obj.to ? localePath(obj.to) : null"
+                >
                   <template v-if="obj.img">
                     <div
                       class="text-center grey lighten-2"
@@ -47,104 +50,40 @@
                       <v-icon size="75">{{ obj.icon }}</v-icon>
                     </div>
                   </template>
-                </a>
-                <div class="pa-4">
-                  <a :href="obj.href" target="_blank">
-                    <h4>{{ obj.label }}</h4>
-                  </a>
+                </component>
 
-                  <p v-if="obj.description" class="mt-2 mb-0">
-                    {{ obj.description }}
-                  </p>
-                </div>
-              </template>
-              <template v-else>
-                <v-row>
-                  <v-col md="4" cols="12">
-                    <nuxt-link :to="localePath(obj.path)">
-                      <!-- lighten-2 grey -->
-                      <div class="text-center pa-10" style="height: 150px">
-                        <v-icon size="75">{{ obj.icon }}</v-icon>
-                      </div>
-                    </nuxt-link>
-                  </v-col>
-                  <v-col>
-                    <div class="px-4">
-                      <nuxt-link :to="localePath(obj.path)">
-                        <h4>{{ obj.label }}</h4>
-                      </nuxt-link>
-
-                      <p
-                        v-if="obj.description"
-                        class="mt-2 mb-0"
-                        v-html="obj.description"
-                      ></p>
-                    </div>
-                  </v-col>
-                </v-row>
-              </template>
-            </v-card>
-          </v-col>
-          <v-col
-            v-if="false"
-            v-for="(obj, key) in items"
-            :key="key"
-            cols="12"
-            :sm="3"
-          >
-            <v-card flat no-body class="mb-4">
-              <template v-if="obj.href">
-                <a :href="obj.href" target="_blank">
-                  <template v-if="obj.img">
-                    <div
-                      class="text-center grey lighten-2"
-                      style="height: 150px"
+                <div class="pa-2 pt-4">
+                  <h3>
+                    <component
+                      :is="obj.to ? 'nuxt-link' : 'a'"
+                      :href="obj.href || null"
+                      :target="obj.blank ? '_blank' : null"
+                      :to="obj.to ? localePath(obj.to) : null"
                     >
-                      <v-img contain style="height: 150px" :src="obj.img" />
-                    </div>
-                  </template>
-                  <template v-else>
-                    <div
-                      class="text-center grey lighten-2 pa-10"
-                      style="height: 150px"
-                    >
-                      <v-icon size="75">{{ obj.icon }}</v-icon>
-                    </div>
-                  </template>
-                </a>
-                <div class="pa-4">
-                  <a :href="obj.href" target="_blank">
-                    <h4>{{ obj.label }}</h4>
-                  </a>
-
-                  <p v-if="obj.description" class="mt-2 mb-0">
+                      {{ $t(obj.label) }}
+                    </component>
+                  </h3>
+                  <div class="mt-2" v-if="obj.description">
                     {{ obj.description }}
-                  </p>
-                </div>
-              </template>
-              <template v-else>
-                <nuxt-link :to="localePath(obj.path)">
-                  <div
-                    class="text-center grey lighten-2 pa-10"
-                    style="height: 150px"
-                  >
-                    <v-icon size="75">{{ obj.icon }}</v-icon>
+                    <div class="mt-2" v-if="obj.to2 || obj.href2">
+                      <v-btn
+                        :to="localePath(obj.to2 || null)"
+                        :href="obj.href2 || null"
+                        :target="obj.target2 || null"
+                        rounded
+                        color="primary darken-2"
+                        depressed
+                        >{{ $t(obj.label2) }}
+                        <v-icon class="ml-1" v-if="obj.target2"
+                          >mdi-exit-to-app</v-icon
+                        ></v-btn
+                      >
+                    </div>
                   </div>
-                </nuxt-link>
-                <div class="pa-4">
-                  <nuxt-link :to="localePath(obj.path)">
-                    <h4>{{ obj.label }}</h4>
-                  </nuxt-link>
-
-                  <p
-                    v-if="obj.description"
-                    class="mt-2 mb-0"
-                    v-html="obj.description"
-                  ></p>
                 </div>
-              </template>
-            </v-card>
-          </v-col>
+              </v-card>
+            </v-col>
+          </template>
         </v-row>
       </div>
 
@@ -189,6 +128,8 @@ export default class about extends Vue {
   visualization: any = process.env.visualization
 
   items: any = []
+
+  menu: any = process.env.menu
 
   head() {
     const title = this.siteName

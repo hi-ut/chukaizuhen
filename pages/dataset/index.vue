@@ -1,14 +1,10 @@
 <template>
   <div>
     <Breadcrumbs :items="bh" />
-    <v-container class="my-5">
+    <v-container class="my-5 mb-10">
       <h2 class="mb-5">{{ title }}</h2>
 
-      <p class="mb-5">
-        正保琉球国絵図デジタルアーカイブの地名をまとめて利用するためのデータセットを公開しています。
-      </p>
-
-      <v-data-table :headers="headers" :items="items">
+      <v-data-table :headers="headers" :items="items" :items-per-page="-1">
         <template v-slot:item.dwn="{ item }">
           <v-btn icon :href="item['@id']" color="primary">
             <v-icon>mdi-file-download</v-icon>
@@ -17,18 +13,31 @@
 
         <template v-slot:item.url="{ item }">
           <v-btn
+            v-if="item.url"
             color="primary darken-2"
             rounded
             depressed
             class="my-2"
             :href="item.url"
             target="_blank"
+            small
           >
             {{ $t('view') }}
             <v-icon class="ml-2">mdi-exit-to-app</v-icon>
           </v-btn>
         </template>
       </v-data-table>
+
+      <v-btn
+        v-if="false"
+        class="my-10"
+        rounded
+        depressed
+        color="primary darken-2"
+        :to="localePath({ name: 'dictionary' })"
+      >
+        地名辞書
+      </v-btn>
     </v-container>
   </div>
 </template>
@@ -65,32 +74,25 @@ export default class Item extends Vue {
   }
 
   get items(): any[] {
-    return [
-      {
-        '@id':
-          'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/curation/0001.json',
-        label: this.$t('正保琉球国絵図写'),
-        type: this.$t('iiif_curation'),
-        url:
-          'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/icv/?curation=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/curation/0001.json',
-      },
-      {
-        '@id':
-          'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/curation/0002.json',
-        label: this.$t('正保琉球国悪鬼納島絵図写'),
-        type: this.$t('iiif_curation'),
-        url:
-          'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/icv/?curation=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/curation/0002.json',
-      },
-      {
-        '@id':
-          'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/curation/0003.json',
-        label: this.$t('正保琉球国八山島絵図'),
-        type: this.$t('iiif_curation'),
-        url:
-          'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/icv/?curation=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/ryukyu/data/curation/0003.json',
-      },
-    ]
+    const items: any[] = []
+
+    const baseUrl = process.env.BASE_URL
+
+    items.push({
+      '@id': `${baseUrl}/data/curation/top.json`,
+      label: this.$t('iiif_curation'),
+      type: this.$t('json'),
+      url: `https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/icv/?curation=${baseUrl}/data/curation/top.json`,
+    })
+
+    items.push({
+      '@id': `${baseUrl}/api/data.ttl`,
+      label: this.$t('metadata') + ' ' + this.$t('rdf'),
+      type: this.$t('ttl'),
+      url: `https://www.kanzaki.com/works/2014/pub/ld-browser?u=${baseUrl}/api/data.ttl`,
+    })
+
+    return items
   }
 
   get bh() {

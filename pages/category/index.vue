@@ -1,12 +1,8 @@
 <template>
   <div>
     <Breadcrumbs :items="bh" />
-    <v-container class="my-5">
+    <v-container class="my-5 mb-10">
       <h2 class="mb-5">{{ $t('category') }}</h2>
-
-      <p>
-        正保の琉球国絵図３舗に書き込まれた文字などの情報（全895件）につき、島や村などの分類によって検索できます。
-      </p>
 
       <v-simple-table>
         <template v-slot:default>

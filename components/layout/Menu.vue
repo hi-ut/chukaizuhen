@@ -2,19 +2,32 @@
   <div>
     <v-navigation-drawer v-model="drawer" app :temporary="true">
       <v-list>
+        <v-list-item :to="localePath({ name: 'index' })">
+          <v-list-item-content>
+            <span>{{ $t('top') }} </span>
+          </v-list-item-content>
+        </v-list-item>
+        <v-list-item @click="dialog = true" v-if="isAdvanced">
+          <v-list-item-content>
+            <span>{{ $t('detail') }} </span>
+          </v-list-item-content>
+        </v-list-item>
         <v-list-item
           v-for="(item, key) in menu"
           :key="key"
-          :to="item.to"
+          :to="localePath(item.to)"
           :href="item.href"
-          @click="item.type ? (dialog = true) : ''"
+          :target="item.target || null"
           link
+          exact
         >
-          <v-list-item-action v-if="item.icon">
-            <v-icon>{{ item.icon }}</v-icon>
-          </v-list-item-action>
           <v-list-item-content>
-            <span>{{ $t(item.label) }}</span>
+            <span
+              >{{ $t(item.label) }}
+              <template v-if="item.target">
+                <v-icon class="ml-1">mdi-exit-to-app</v-icon>
+              </template></span
+            >
           </v-list-item-content>
         </v-list-item>
         <!--
@@ -96,7 +109,7 @@
         <!-- class="ma-1" -->
         <v-btn
           v-if="item.top"
-          v-for="(item, key) in menu"
+          v-for="(item, key) in menu2"
           :key="key"
           text
           depressed
@@ -171,20 +184,45 @@ export default class License extends Vue {
     return this.$t(process.env.siteName as any)
   }
 
-  get menu(): any[] {
+  menu: any = process.env.menu
+
+  get menu2(): any[] {
     return [
+      /*
       {
         label: 'top',
         to: this.localePath({ name: 'index' }),
       },
+      */
+      {
+        label: 'detail',
+        //to: this.localePath({ name: 'advanced' }),
+        type: 'modal',
+        top: this.isAdvanced,
+      },
       /*
+      {
+        label: 'list_',
+        to: this.localePath({ name: 'collection' }),
+        top: true,
+      },
       {
         label: 'category',
         to: this.localePath({ name: 'category' }),
-        top: true,
+      },
+      {
+        label: 'about_',
+        to: this.localePath({
+          name: 'page-slug',
+          params: { slug: 'about' },
+        }),
       },
       */
     ]
+  }
+
+  get isAdvanced() {
+    return (process as any).env.advanced.length > 0
   }
 
   get isMobile() {

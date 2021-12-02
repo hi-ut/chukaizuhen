@@ -32,6 +32,48 @@ env.settings = settings
 const norm = JSON.parse(fs.readFileSync('static/data/norm.json'))
 env.itaiji = norm
 
+env.menu = [
+  {
+    label: 'search',
+    to: {
+      name: 'search',
+    },
+    icon: 'mdi-magnify',
+    top: true,
+  },
+  {
+    label: 'category',
+    to: {
+      name: 'category',
+    },
+    icon: 'mdi-tag',
+    top: true,
+  },
+  {
+    label: 'dataset',
+    to: {
+      name: 'dataset',
+    },
+    icon: 'mdi-database',
+    top: true,
+  },
+  {
+    label: '倭寇図巻デジタルアーカイブ',
+    href: 'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/',
+    target: '_blank',
+  },
+  {
+    label: 'デジタルギャラリー',
+    href: 'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/',
+    target: '_blank',
+  },
+  {
+    label: '東京大学史料編纂所',
+    href: 'https://www.hi.u-tokyo.ac.jp/',
+    target: '_blank',
+  },
+]
+
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
 let routerBase =
   process.env.DEPLOY_ENV === 'GH_PAGES'
@@ -50,8 +92,6 @@ routerBase =
         },
       }
     : routerBase
-
-const ssr = false //['production'].includes(process.env.NODE_ENV)
 
 // path
 const baseUrl = env.BASE_URL || ''

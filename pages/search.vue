@@ -523,10 +523,14 @@ export default class FullTextSearch extends Vue {
 
     // hitsPerPage
     let size = Number(query.size) || process.env.defaultSize
+    /*
     if (size || size === -1) {
       size = process.env.defaultSize
     }
+    */
     this.size = size
+    /*
+     */
 
     // レイアウト
     this.layout_ = query.layout || this.layout_
@@ -590,7 +594,7 @@ export default class FullTextSearch extends Vue {
       routeQuery.sort = this.sort
     }
     if (!routeQuery.size) {
-      routeQuery.size = this.size
+      routeQuery.size = process.env.defaultSize //this.size
     }
 
     try {
