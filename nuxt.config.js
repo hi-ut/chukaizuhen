@@ -122,7 +122,7 @@ const shortName = conf.shortName
 const manifestIcon = 'img/icons/icon-512.png'
 // const splashscreens = cdnPath + 'img/splashscreens/'
 
-env.gtag = 'G-4HCHKW275B'
+env.gtag = 'G-K9KK14LMJ1'
 
 export default {
   telemetry: false,

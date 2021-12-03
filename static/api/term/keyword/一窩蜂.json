@@ -11,12 +11,12 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/b541a6fd0f3f6541e17435a5a1ceb9e7.jpg"
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/ca52a8c333bb3330c96d05f3e6570e65.jpg"
       }
     ],
     "http://schema.org/relatedLink": [
       {
-        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276"
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p16#xywh=785,595,2318,3268"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

@@ -489,7 +489,7 @@
         {
           "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276",
           "@type": "sc:Canvas",
-          "label": "一窩蜂",
+          "label": "銃",
           "metadata": [
             {
               "label": "分類",
@@ -497,7 +497,7 @@
             },
             {
               "label": "タイトル",
-              "value": "一窩蜂"
+              "value": "銃"
             }
           ],
           "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/b541a6fd0f3f6541e17435a5a1ceb9e7.jpg"

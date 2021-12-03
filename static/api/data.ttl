@@ -1,19 +1,11 @@
 @prefix ns1: <http://schema.org/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/[タイトルなし].json> a <https://jpsearch.go.jp/term/type/Keyword> ;
-    rdfs:label "[タイトルなし]" ;
-    ns1:description "分類: 武器" ;
-    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/43bb41a8741b68e14abde4059d5b8be9.jpg>,
-        <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/ca52a8c333bb3330c96d05f3e6570e65.jpg> ;
-    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p16#xywh=785,595,2318,3268>,
-        <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p32#xywh=779,516,2338,3323> .
-
 <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/一窩蜂.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
     rdfs:label "一窩蜂" ;
     ns1:description "分類: 武器" ;
-    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/b541a6fd0f3f6541e17435a5a1ceb9e7.jpg> ;
-    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276> .
+    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/ca52a8c333bb3330c96d05f3e6570e65.jpg> ;
+    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p16#xywh=785,595,2318,3268> .
 
 <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/両広薬箭.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
     rdfs:label "両広薬箭" ;
@@ -46,12 +38,6 @@
     ns1:description "分類: 武器" ;
     ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e03df50c67b6d85072820bf5a0011e2b.jpg> ;
     ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p43#xywh=842,534,2306,3327> .
-
-<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/側立_裏面鬼撑形／外形.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
-    rdfs:label "側立 裏面鬼撑形／外形" ;
-    ns1:description "分類: 武器" ;
-    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9951b22fdb2d0f5bb71a1d8dac1da9dc.jpg> ;
-    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p10#xywh=787,540,2291,3308> .
 
 <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/八槳船.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
     rdfs:label "八槳船" ;
@@ -254,11 +240,13 @@
 <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/銃.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
     rdfs:label "銃" ;
     ns1:description "分類: 武器" ;
-    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/2af6cb63da22830e1815d50eeb02d254.jpg> ;
-    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p14#xywh=818,540,2275,3316> .
+    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/2af6cb63da22830e1815d50eeb02d254.jpg>,
+        <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/b541a6fd0f3f6541e17435a5a1ceb9e7.jpg> ;
+    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p14#xywh=818,540,2275,3316>,
+        <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276> .
 
-<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/銅発貢〔鑛〕.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
-    rdfs:label "銅発貢〔鑛〕" ;
+<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/銅発貢.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "銅発貢" ;
     ns1:description "分類: 武器" ;
     ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e753bc1a5acc7c82046515ce2d9a9d77.jpg> ;
     ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p5#xywh=763,595,2322,3261> .
@@ -284,9 +272,11 @@
 <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/馬箭.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
     rdfs:label "馬箭" ;
     ns1:description "分類: 武器" ;
-    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/6c5dc1cf6098e147ec558f23a970d929.jpg>,
+    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/43bb41a8741b68e14abde4059d5b8be9.jpg>,
+        <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/6c5dc1cf6098e147ec558f23a970d929.jpg>,
         <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e80acb9e081952f071fe39b5d512b5ec.jpg> ;
-    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=3111,508,2306,3308>,
+    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p32#xywh=779,516,2338,3323>,
+        <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=3111,508,2306,3308>,
         <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=816,542,2271,3288> .
 
 <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/高把稍〔梢ヵ〕船.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
@@ -295,20 +285,26 @@
     ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/181c9010371f0552c5bb8bf8f032b59e.jpg> ;
     ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p13#xywh=802,540,2346,3323> .
 
-<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/鳥嘴銃.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
-    rdfs:label "鳥嘴銃" ;
+<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/鳥嘴銃（鳥銃）.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "鳥嘴銃（鳥銃）" ;
     ns1:description "分類: 武器" ;
     ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/c5eccbf2a8ae7ffcfd199a270a536417.jpg> ;
     ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p11#xywh=3134,555,2385,3308> .
 
-<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/鳥銃_後門形／銃架形….json> a <https://jpsearch.go.jp/term/type/Keyword> ;
-    rdfs:label "鳥銃 後門形／銃架形…" ;
+<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/鳥銃_側立.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "鳥銃 側立" ;
+    ns1:description "分類: 武器" ;
+    ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9951b22fdb2d0f5bb71a1d8dac1da9dc.jpg> ;
+    ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p10#xywh=787,540,2291,3308> .
+
+<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/鳥銃_後門/銃架….json> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "鳥銃 後門/銃架…" ;
     ns1:description "分類: 武器" ;
     ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/12b4bbdf7a6b1dbe97b515c72cc85475.jpg> ;
     ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p12#xywh=3134,555,2393,3300> .
 
-<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/鳥銃_龍頭／架内搬鬼形／其鬼所勾画小出.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
-    rdfs:label "鳥銃 龍頭／架内搬鬼形／其鬼所勾画小出" ;
+<https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/鳥銃_龍頭.json> a <https://jpsearch.go.jp/term/type/Keyword> ;
+    rdfs:label "鳥銃 龍頭" ;
     ns1:description "分類: 武器" ;
     ns1:image <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f9a51f443cfc92456e0ffad9faa5b382.jpg> ;
     ns1:relatedLink <https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p11#xywh=794,555,2314,3316> .
