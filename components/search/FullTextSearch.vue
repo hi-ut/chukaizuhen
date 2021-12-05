@@ -43,7 +43,7 @@
         </v-list-item>
       </v-list>
       -->
-      <History />
+      <History :size="10" />
 
       <v-divider></v-divider>
 

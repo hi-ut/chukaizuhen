@@ -60,7 +60,6 @@ env.menu = [
   {
     label: '倭寇図巻デジタルアーカイブ',
     href: 'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/',
-    target: '_blank',
   },
   {
     label: 'デジタルギャラリー',

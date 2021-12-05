@@ -47,7 +47,7 @@ export default class FullTextSearch extends Vue {
     const query = this.$route.query
     const filters: any[] = []
     for (const key in query) {
-      if (key.includes('fc-') || key.includes('q-')) {
+      if (key.includes('fc-') || key.includes('q-') || key === 'keyword') {
         let values = query[key]
         if (typeof values === 'string') {
           values = [values]
@@ -110,7 +110,8 @@ export default class FullTextSearch extends Vue {
     for (const key in query) {
       if (
         key.includes(/*'[refinementList]'*/ 'fc-') ||
-        key.includes(/*'[refinementList]'*/ 'q-')
+        key.includes(/*'[refinementList]'*/ 'q-') ||
+        key === 'keyword'
       ) {
         delete query[key]
       }
@@ -143,6 +144,7 @@ export default class FullTextSearch extends Vue {
     return value
       .replace('fc-', this.$t('facet') + '-')
       .replace('q-', this.$t('detail') + '-')
+      .replace('keyword', (this as any).$t('keyword'))
   }
 
   customMap: any = {}

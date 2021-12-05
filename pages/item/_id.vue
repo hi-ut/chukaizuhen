@@ -255,7 +255,7 @@
       </small>
     </v-sheet>
 
-    <v-sheet class="text-center pa-10 mt-10">
+    <v-sheet class="text-center pa-10 my-10">
       <small>
         <h3 class="mb-5">{{ $t('last_updated') }}</h3>
 
