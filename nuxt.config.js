@@ -59,11 +59,11 @@ env.menu = [
   },
   {
     label: '倭寇図巻デジタルアーカイブ',
-    href: 'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/',
+    href: 'https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/',
   },
   {
     label: 'デジタルギャラリー',
-    href: 'https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/',
+    href: 'https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/',
     target: '_blank',
   },
   {
@@ -87,7 +87,7 @@ routerBase =
   process.env.NODE_ENV === 'hi'
     ? {
         router: {
-          base: '/collection/degitalgallary/wakozukan/chukaizuhen/',
+          base: '/collection/digitalgallery/wakozukan/chukaizuhen/',
         },
       }
     : routerBase

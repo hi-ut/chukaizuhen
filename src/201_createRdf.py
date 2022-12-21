@@ -26,7 +26,7 @@ for selection in selections:
         id = member["label"]
         label = member["label"]
 
-        subjectStr = "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/{}/{}/{}.json".format(parent, tag, id).replace(" ", "_")
+        subjectStr = "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/api/{}/{}/{}.json".format(parent, tag, id).replace(" ", "_")
 
         subject = URIRef(subjectStr)
 

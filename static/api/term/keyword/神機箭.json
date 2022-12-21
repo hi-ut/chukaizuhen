@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/神機箭.json",
+    "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/api/term/keyword/神機箭.json",
     "@type": [
       "https://jpsearch.go.jp/term/type/Keyword"
     ],
@@ -11,12 +11,12 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/5e6ff4e29ab20c708d12be4e275ee09e.jpg"
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/5e6ff4e29ab20c708d12be4e275ee09e.jpg"
       }
     ],
     "http://schema.org/relatedLink": [
       {
-        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p35#xywh=826,550,2338,3249"
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p35#xywh=826,550,2338,3249"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

@@ -48,7 +48,7 @@
           depressed
           target="_blank"
           color="primary darken-2"
-          :href="`https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/icv/?curation=${
+          :href="`https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/icv/?curation=${
             item.curation
           }&xywh=${item.member.split('#xywh=')[1]}&mode=annotation&lang=ja`"
           >{{ $utils.formatArrayValue(item.図) }}
@@ -118,7 +118,7 @@
                 depressed
                 target="_blank"
                 color="primary darken-2"
-                :href="`https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/icv/?curation=${
+                :href="`https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/icv/?curation=${
                   item._source.curation
                 }&xywh=${
                   item._source.member.split('#xywh=')[1]

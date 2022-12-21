@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/api/term/keyword/標鎗.json",
+    "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/api/term/keyword/標鎗.json",
     "@type": [
       "https://jpsearch.go.jp/term/type/Keyword"
     ],
@@ -11,12 +11,12 @@
     ],
     "http://schema.org/image": [
       {
-        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/0a1423ebd4811e8d57dd260b63574732.jpg"
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/0a1423ebd4811e8d57dd260b63574732.jpg"
       }
     ],
     "http://schema.org/relatedLink": [
       {
-        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p36#xywh=863,471,2271,3374"
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json#canvas=https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p36#xywh=863,471,2271,3374"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

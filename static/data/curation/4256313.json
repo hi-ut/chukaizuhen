@@ -3,12 +3,12 @@
         "http://iiif.io/api/presentation/2/context.json",
         "http://codh.rois.ac.jp/iiif/curation/1/context.json"
     ],
-    "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/curation/4256313.json",
+    "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/curation/4256313.json",
     "@type": "cr:Curation",
     "label": "Automatic curation by IIIF Converter",
     "selections": [
         {
-            "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/curation/4256313.json/range1",
+            "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/curation/4256313.json/range1",
             "@type": "sc:Range",
             "label": "Automatic curation by IIIF Converter",
             "members": [

@@ -55,7 +55,7 @@ for selection in selections:
 
             im_crop.save(opath)
 
-        member["thumbnail"] = "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/" + uuid + ".jpg"
+        member["thumbnail"] = "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/" + uuid + ".jpg"
 
 
 with open(cr_path, 'w') as outfile:

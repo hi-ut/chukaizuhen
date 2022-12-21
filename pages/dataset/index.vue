@@ -82,7 +82,7 @@ export default class Item extends Vue {
       '@id': `${baseUrl}/data/curation/top.json`,
       label: this.$t('iiif_curation'),
       type: this.$t('json'),
-      url: `https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/icv/?curation=${baseUrl}/data/curation/top.json`,
+      url: `https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/icv/?curation=${baseUrl}/data/curation/top.json`,
     })
 
     items.push({

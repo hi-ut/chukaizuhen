@@ -3,16 +3,16 @@
     "http://iiif.io/api/presentation/2/context.json",
     "http://codh.rois.ac.jp/iiif/curation/1/context.json"
   ],
-  "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/curation/top.json",
+  "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/curation/top.json",
   "@type": "cr:Curation",
   "label": "Automatic curation by IIIF Converter",
   "selections": [
     {
-      "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/curation/4256312.json/range1",
+      "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/curation/4256312.json/range1",
       "@type": "sc:Range",
       "members": [
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p5#xywh=722,610,2413,3276",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p5#xywh=722,610,2413,3276",
           "@type": "sc:Canvas",
           "label": "広東船",
           "metadata": [
@@ -25,10 +25,10 @@
               "value": "広東船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/59d5ada29036d41c225b2eb03420fd32.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/59d5ada29036d41c225b2eb03420fd32.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p6#xywh=3164,642,2413,3237",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p6#xywh=3164,642,2413,3237",
           "@type": "sc:Canvas",
           "label": "新会県尖尾船",
           "metadata": [
@@ -41,10 +41,10 @@
               "value": "新会県尖尾船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/696a99d9a64ab749e385d602b9715562.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/696a99d9a64ab749e385d602b9715562.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p6#xywh=692,557,2409,3319",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p6#xywh=692,557,2409,3319",
           "@type": "sc:Canvas",
           "label": "東莞県大頭船",
           "metadata": [
@@ -57,10 +57,10 @@
               "value": "東莞県大頭船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/dd4e0132c343a7098293011e551cd207.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/dd4e0132c343a7098293011e551cd207.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p8#xywh=716,597,2401,3280",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p8#xywh=716,597,2401,3280",
           "@type": "sc:Canvas",
           "label": "大福船",
           "metadata": [
@@ -73,10 +73,10 @@
               "value": "大福船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/06774b045b8de731c161114b1ef25a71.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/06774b045b8de731c161114b1ef25a71.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p10#xywh=708,557,2393,3319",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p10#xywh=708,557,2393,3319",
           "@type": "sc:Canvas",
           "label": "草撇船",
           "metadata": [
@@ -89,10 +89,10 @@
               "value": "草撇船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e45cc058b42b41179a0a7e992f68933c.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/e45cc058b42b41179a0a7e992f68933c.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p11#xywh=768,498,2388,3361",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p11#xywh=768,498,2388,3361",
           "@type": "sc:Canvas",
           "label": "海滄船",
           "metadata": [
@@ -105,10 +105,10 @@
               "value": "海滄船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/c104f9a70d4821c86821b20f6fe5f05e.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/c104f9a70d4821c86821b20f6fe5f05e.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p12#xywh=787,610,2361,3292",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p12#xywh=787,610,2361,3292",
           "@type": "sc:Canvas",
           "label": "開浪船",
           "metadata": [
@@ -121,10 +121,10 @@
               "value": "開浪船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/44be0e3dfc285bfe9705f8c085b64759.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/44be0e3dfc285bfe9705f8c085b64759.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p13#xywh=802,540,2346,3323",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p13#xywh=802,540,2346,3323",
           "@type": "sc:Canvas",
           "label": "高把稍〔梢ヵ〕船",
           "metadata": [
@@ -137,10 +137,10 @@
               "value": "高把稍〔梢ヵ〕船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/181c9010371f0552c5bb8bf8f032b59e.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/181c9010371f0552c5bb8bf8f032b59e.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p14#xywh=802,571,2338,3323",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p14#xywh=802,571,2338,3323",
           "@type": "sc:Canvas",
           "label": "艟𦪞船",
           "metadata": [
@@ -153,10 +153,10 @@
               "value": "艟𦪞船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/6e956744d61aa1bebcd52a5387f02608.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/6e956744d61aa1bebcd52a5387f02608.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p15#xywh=787,501,2346,3347",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p15#xywh=787,501,2346,3347",
           "@type": "sc:Canvas",
           "label": "蒼山船",
           "metadata": [
@@ -169,10 +169,10 @@
               "value": "蒼山船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/a6b1ac146c16ee1178723a2ba3dc2ca4.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/a6b1ac146c16ee1178723a2ba3dc2ca4.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p17#xywh=763,555,2369,3316",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p17#xywh=763,555,2369,3316",
           "@type": "sc:Canvas",
           "label": "八槳船",
           "metadata": [
@@ -185,10 +185,10 @@
               "value": "八槳船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/410c731559136f16f122845c7bfff8d2.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/410c731559136f16f122845c7bfff8d2.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p18#xywh=763,532,2361,3355",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p18#xywh=763,532,2361,3355",
           "@type": "sc:Canvas",
           "label": "鷹船",
           "metadata": [
@@ -201,10 +201,10 @@
               "value": "鷹船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/4d33b6856e44e58a0a52ba2ee7e8ef74.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/4d33b6856e44e58a0a52ba2ee7e8ef74.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p19#xywh=763,532,2361,3331",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p19#xywh=763,532,2361,3331",
           "@type": "sc:Canvas",
           "label": "漁船",
           "metadata": [
@@ -217,10 +217,10 @@
               "value": "漁船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/74c52bb6d3770d54ca88d0fb4bbbb84e.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/74c52bb6d3770d54ca88d0fb4bbbb84e.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p20#xywh=763,532,2354,3331",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p20#xywh=763,532,2354,3331",
           "@type": "sc:Canvas",
           "label": "網梭船",
           "metadata": [
@@ -233,10 +233,10 @@
               "value": "網梭船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/a5daadce2d4f22bb30d788e0390fb242.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/a5daadce2d4f22bb30d788e0390fb242.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p21#xywh=771,469,2338,3394",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p21#xywh=771,469,2338,3394",
           "@type": "sc:Canvas",
           "label": "両頭舡",
           "metadata": [
@@ -249,10 +249,10 @@
               "value": "両頭舡"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f31d747b5bb34b3fc80be37c1843adcc.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/f31d747b5bb34b3fc80be37c1843adcc.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p22#xywh=747,501,2346,3378",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p22#xywh=747,501,2346,3378",
           "@type": "sc:Canvas",
           "label": "蜈蚣船",
           "metadata": [
@@ -265,10 +265,10 @@
               "value": "蜈蚣船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/812c27bd3f21a4eaf9eacc62e537e0d7.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/812c27bd3f21a4eaf9eacc62e537e0d7.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p24#xywh=810,555,2346,3339",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p24#xywh=810,555,2346,3339",
           "@type": "sc:Canvas",
           "label": "沙船",
           "metadata": [
@@ -281,10 +281,10 @@
               "value": "沙船"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f1c7e3723a3b159023549f76e572fd57.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/f1c7e3723a3b159023549f76e572fd57.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p33#xywh=771,555,2354,3316",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p33#xywh=771,555,2354,3316",
           "@type": "sc:Canvas",
           "label": "粤兵盔甲",
           "metadata": [
@@ -297,10 +297,10 @@
               "value": "粤兵盔甲"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/499ac73be91285ed6b6e673241dc734b.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/499ac73be91285ed6b6e673241dc734b.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p34#xywh=755,524,2322,3339",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p34#xywh=755,524,2322,3339",
           "@type": "sc:Canvas",
           "label": "燕尾牌",
           "metadata": [
@@ -313,10 +313,10 @@
               "value": "燕尾牌"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/0269fae15ab6aec1b541fb389e869735.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/0269fae15ab6aec1b541fb389e869735.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p36#xywh=755,555,2346,3308",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/canvas/p36#xywh=755,555,2346,3308",
           "@type": "sc:Canvas",
           "label": "挨牌",
           "metadata": [
@@ -329,21 +329,21 @@
               "value": "挨牌"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/8c80dcb89783df4a04494e5d82eb768b.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/8c80dcb89783df4a04494e5d82eb768b.jpg"
         }
       ],
       "within": {
-        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256312/manifest.json",
         "@type": "sc:Manifest",
         "label": "籌海図編１８"
       }
     },
     {
-      "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/curation/4256313.json/range1",
+      "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/curation/4256313.json/range1",
       "@type": "sc:Range",
       "members": [
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p4#xywh=763,563,2338,3300",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p4#xywh=763,563,2338,3300",
           "@type": "sc:Canvas",
           "label": "藤牌",
           "metadata": [
@@ -356,10 +356,10 @@
               "value": "藤牌"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/1341f0870244a3f10039415de2fc0ece.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/1341f0870244a3f10039415de2fc0ece.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p5#xywh=763,595,2322,3261",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p5#xywh=763,595,2322,3261",
           "@type": "sc:Canvas",
           "label": "銅発貢",
           "metadata": [
@@ -372,10 +372,10 @@
               "value": "銅発貢"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e753bc1a5acc7c82046515ce2d9a9d77.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/e753bc1a5acc7c82046515ce2d9a9d77.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p7#xywh=763,516,2361,3363",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p7#xywh=763,516,2361,3363",
           "@type": "sc:Canvas",
           "label": "仏狼機",
           "metadata": [
@@ -388,10 +388,10 @@
               "value": "仏狼機"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/68fe12ff93de3e4502b0c58fe4732eb9.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/68fe12ff93de3e4502b0c58fe4732eb9.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p8#xywh=3150,508,2369,3339",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p8#xywh=3150,508,2369,3339",
           "@type": "sc:Canvas",
           "label": "仏狼機",
           "metadata": [
@@ -404,10 +404,10 @@
               "value": "仏狼機"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/84e3d229164a940e2a7f1b6f2e15549e.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/84e3d229164a940e2a7f1b6f2e15549e.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p10#xywh=787,540,2291,3308",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p10#xywh=787,540,2291,3308",
           "@type": "sc:Canvas",
           "label": "鳥銃 側立",
           "metadata": [
@@ -420,10 +420,10 @@
               "value": "鳥銃 側立"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9951b22fdb2d0f5bb71a1d8dac1da9dc.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/9951b22fdb2d0f5bb71a1d8dac1da9dc.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p11#xywh=3134,555,2385,3308",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p11#xywh=3134,555,2385,3308",
           "@type": "sc:Canvas",
           "label": "鳥嘴銃（鳥銃）",
           "metadata": [
@@ -436,10 +436,10 @@
               "value": "鳥嘴銃（鳥銃）"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/c5eccbf2a8ae7ffcfd199a270a536417.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/c5eccbf2a8ae7ffcfd199a270a536417.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p11#xywh=794,555,2314,3316",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p11#xywh=794,555,2314,3316",
           "@type": "sc:Canvas",
           "label": "鳥銃 龍頭",
           "metadata": [
@@ -452,10 +452,10 @@
               "value": "鳥銃 龍頭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f9a51f443cfc92456e0ffad9faa5b382.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/f9a51f443cfc92456e0ffad9faa5b382.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p12#xywh=3134,555,2393,3300",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p12#xywh=3134,555,2393,3300",
           "@type": "sc:Canvas",
           "label": "鳥銃 後門/銃架…",
           "metadata": [
@@ -468,10 +468,10 @@
               "value": "鳥銃 後門/銃架…"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/12b4bbdf7a6b1dbe97b515c72cc85475.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/12b4bbdf7a6b1dbe97b515c72cc85475.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p14#xywh=818,540,2275,3316",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p14#xywh=818,540,2275,3316",
           "@type": "sc:Canvas",
           "label": "銃",
           "metadata": [
@@ -484,10 +484,10 @@
               "value": "銃"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/2af6cb63da22830e1815d50eeb02d254.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/2af6cb63da22830e1815d50eeb02d254.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276",
           "@type": "sc:Canvas",
           "label": "銃",
           "metadata": [
@@ -500,10 +500,10 @@
               "value": "銃"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/b541a6fd0f3f6541e17435a5a1ceb9e7.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/b541a6fd0f3f6541e17435a5a1ceb9e7.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=802,477,2283,3378",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p15#xywh=802,477,2283,3378",
           "@type": "sc:Canvas",
           "label": "子母炮",
           "metadata": [
@@ -516,10 +516,10 @@
               "value": "子母炮"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/8bcbdca060cb17b57aa40565cc090df7.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/8bcbdca060cb17b57aa40565cc090df7.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p16#xywh=785,595,2318,3268",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p16#xywh=785,595,2318,3268",
           "@type": "sc:Canvas",
           "label": "一窩蜂",
           "metadata": [
@@ -532,10 +532,10 @@
               "value": "一窩蜂"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/ca52a8c333bb3330c96d05f3e6570e65.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/ca52a8c333bb3330c96d05f3e6570e65.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p17#xywh=763,398,2346,3480",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p17#xywh=763,398,2346,3480",
           "@type": "sc:Canvas",
           "label": "天墜砲",
           "metadata": [
@@ -548,10 +548,10 @@
               "value": "天墜砲"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9c8c3338ec6049a872ecbdd5af2d88b4.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/9c8c3338ec6049a872ecbdd5af2d88b4.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p18#xywh=818,563,2314,3308",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p18#xywh=818,563,2314,3308",
           "@type": "sc:Canvas",
           "label": "地雷",
           "metadata": [
@@ -564,10 +564,10 @@
               "value": "地雷"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/3e2fdf80fe66e468fce50ac68f6d05cf.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/3e2fdf80fe66e468fce50ac68f6d05cf.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p19#xywh=830,589,2306,3288",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p19#xywh=830,589,2306,3288",
           "@type": "sc:Canvas",
           "label": "大蜂窠",
           "metadata": [
@@ -580,10 +580,10 @@
               "value": "大蜂窠"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/3bdb092f60220a7e5e030f4d30ef923d.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/3bdb092f60220a7e5e030f4d30ef923d.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p20#xywh=810,579,2322,3268",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p20#xywh=810,579,2322,3268",
           "@type": "sc:Canvas",
           "label": "火妖",
           "metadata": [
@@ -596,10 +596,10 @@
               "value": "火妖"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/bb6dae153753aca9d9ff94e2912b0192.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/bb6dae153753aca9d9ff94e2912b0192.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p22#xywh=826,603,2299,3245",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p22#xywh=826,603,2299,3245",
           "@type": "sc:Canvas",
           "label": "火薬桶",
           "metadata": [
@@ -612,10 +612,10 @@
               "value": "火薬桶"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/b41727862fddf5d5c754eb739c30102c.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/b41727862fddf5d5c754eb739c30102c.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p23#xywh=810,540,2306,3308",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p23#xywh=810,540,2306,3308",
           "@type": "sc:Canvas",
           "label": "火磚",
           "metadata": [
@@ -628,10 +628,10 @@
               "value": "火磚"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/49aa6c06a8cbda2e592ca49290920cef.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/49aa6c06a8cbda2e592ca49290920cef.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p24#xywh=802,516,2306,3323",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p24#xywh=802,516,2306,3323",
           "@type": "sc:Canvas",
           "label": "飛天噴筒",
           "metadata": [
@@ -644,10 +644,10 @@
               "value": "飛天噴筒"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9788a819e4c02489978f5f2f9d06c569.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/9788a819e4c02489978f5f2f9d06c569.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p27#xywh=810,603,2306,3237",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p27#xywh=810,603,2306,3237",
           "@type": "sc:Canvas",
           "label": "礟",
           "metadata": [
@@ -660,10 +660,10 @@
               "value": "礟"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/468a1449081c720d4b37a2ead34251d2.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/468a1449081c720d4b37a2ead34251d2.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p28#xywh=787,548,2330,3292",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p28#xywh=787,548,2330,3292",
           "@type": "sc:Canvas",
           "label": "両広薬箭",
           "metadata": [
@@ -676,10 +676,10 @@
               "value": "両広薬箭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/537da63b7e120aac24ddbd9850d205be.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/537da63b7e120aac24ddbd9850d205be.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p29#xywh=800,634,2310,3237",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p29#xywh=800,634,2310,3237",
           "@type": "sc:Canvas",
           "label": "辺箭",
           "metadata": [
@@ -692,10 +692,10 @@
               "value": "辺箭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/08614c6a2ec77327c8aeaeddbf5f48dc.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/08614c6a2ec77327c8aeaeddbf5f48dc.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p30#xywh=802,540,2299,3308",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p30#xywh=802,540,2299,3308",
           "@type": "sc:Canvas",
           "label": "弩箭",
           "metadata": [
@@ -708,10 +708,10 @@
               "value": "弩箭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9ee4d2fcbf3f23b48bec70671c1d728e.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/9ee4d2fcbf3f23b48bec70671c1d728e.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p31#xywh=779,603,2330,3268",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p31#xywh=779,603,2330,3268",
           "@type": "sc:Canvas",
           "label": "伏弩",
           "metadata": [
@@ -724,10 +724,10 @@
               "value": "伏弩"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/9b46634d830575509cbd867128ea6d56.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/9b46634d830575509cbd867128ea6d56.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p32#xywh=779,516,2338,3323",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p32#xywh=779,516,2338,3323",
           "@type": "sc:Canvas",
           "label": "馬箭",
           "metadata": [
@@ -740,10 +740,10 @@
               "value": "馬箭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/43bb41a8741b68e14abde4059d5b8be9.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/43bb41a8741b68e14abde4059d5b8be9.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=3111,508,2306,3308",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=3111,508,2306,3308",
           "@type": "sc:Canvas",
           "label": "馬箭",
           "metadata": [
@@ -756,10 +756,10 @@
               "value": "馬箭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/6c5dc1cf6098e147ec558f23a970d929.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/6c5dc1cf6098e147ec558f23a970d929.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=816,542,2271,3288",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p33#xywh=816,542,2271,3288",
           "@type": "sc:Canvas",
           "label": "馬箭",
           "metadata": [
@@ -772,10 +772,10 @@
               "value": "馬箭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e80acb9e081952f071fe39b5d512b5ec.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/e80acb9e081952f071fe39b5d512b5ec.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p34#xywh=855,563,2310,3323",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p34#xywh=855,563,2310,3323",
           "@type": "sc:Canvas",
           "label": "火箭",
           "metadata": [
@@ -788,10 +788,10 @@
               "value": "火箭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/0994893fa8f89b1d246e4d34a737287f.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/0994893fa8f89b1d246e4d34a737287f.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p35#xywh=826,550,2338,3249",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p35#xywh=826,550,2338,3249",
           "@type": "sc:Canvas",
           "label": "神機箭",
           "metadata": [
@@ -804,10 +804,10 @@
               "value": "神機箭"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/5e6ff4e29ab20c708d12be4e275ee09e.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/5e6ff4e29ab20c708d12be4e275ee09e.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p36#xywh=863,471,2271,3374",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p36#xywh=863,471,2271,3374",
           "@type": "sc:Canvas",
           "label": "標鎗",
           "metadata": [
@@ -820,10 +820,10 @@
               "value": "標鎗"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/0a1423ebd4811e8d57dd260b63574732.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/0a1423ebd4811e8d57dd260b63574732.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p37#xywh=840,571,2295,3292",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p37#xywh=840,571,2295,3292",
           "@type": "sc:Canvas",
           "label": "長鎗",
           "metadata": [
@@ -836,10 +836,10 @@
               "value": "長鎗"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/f774e7726d8d7beb48285d326e61c340.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/f774e7726d8d7beb48285d326e61c340.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p38#xywh=824,642,2303,3229",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p38#xywh=824,642,2303,3229",
           "@type": "sc:Canvas",
           "label": "𥱉筅",
           "metadata": [
@@ -852,10 +852,10 @@
               "value": "𥱉筅"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/5a6d996ca40c0cafeb29d02e5fb8ade8.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/5a6d996ca40c0cafeb29d02e5fb8ade8.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p40#xywh=808,555,2350,3323",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p40#xywh=808,555,2350,3323",
           "@type": "sc:Canvas",
           "label": "棍",
           "metadata": [
@@ -868,10 +868,10 @@
               "value": "棍"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/43a4aaafa76e3e61169e44a3844609a1.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/43a4aaafa76e3e61169e44a3844609a1.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p41#xywh=798,608,2340,3275",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p41#xywh=798,608,2340,3275",
           "@type": "sc:Canvas",
           "label": "梨花鎗",
           "metadata": [
@@ -884,10 +884,10 @@
               "value": "梨花鎗"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/54e2f1691c353cc5c9d4d4c727000eab.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/54e2f1691c353cc5c9d4d4c727000eab.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p42#xywh=808,603,2350,3268",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p42#xywh=808,603,2350,3268",
           "@type": "sc:Canvas",
           "label": "天蓬鏟",
           "metadata": [
@@ -900,10 +900,10 @@
               "value": "天蓬鏟"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/c0d367373848f49a7c6c55f7d74d9939.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/c0d367373848f49a7c6c55f7d74d9939.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p43#xywh=842,534,2306,3327",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p43#xywh=842,534,2306,3327",
           "@type": "sc:Canvas",
           "label": "偃月刀",
           "metadata": [
@@ -916,10 +916,10 @@
               "value": "偃月刀"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/e03df50c67b6d85072820bf5a0011e2b.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/e03df50c67b6d85072820bf5a0011e2b.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p44#xywh=818,571,2338,3284",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p44#xywh=818,571,2338,3284",
           "@type": "sc:Canvas",
           "label": "剣",
           "metadata": [
@@ -932,10 +932,10 @@
               "value": "剣"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/7781e90c05bef0c3bd595145934d6c57.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/7781e90c05bef0c3bd595145934d6c57.jpg"
         },
         {
-          "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p45#xywh=826,555,2314,3300",
+          "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/canvas/p45#xywh=826,555,2314,3300",
           "@type": "sc:Canvas",
           "label": "𠷢枚",
           "metadata": [
@@ -948,11 +948,11 @@
               "value": "𠷢枚"
             }
           ],
-          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/files/medium/becedb5c5763080053f1885b7fa8a65c.jpg"
+          "thumbnail": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/files/medium/becedb5c5763080053f1885b7fa8a65c.jpg"
         }
       ],
       "within": {
-        "@id": "https://www.hi.u-tokyo.ac.jp/collection/degitalgallary/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
+        "@id": "https://www.hi.u-tokyo.ac.jp/collection/digitalgallery/wakozukan/chukaizuhen/data/iiif/4256313/manifest.json",
         "@type": "sc:Manifest",
         "label": "籌海図編１９"
       }
