@@ -4,18 +4,28 @@
       <v-container>
         <v-row>
           <v-col cols="12" :md="3" v-for="(item, key) in menu" :key="key">
-            <nuxt-link
-              style="color: white; font-size: smaller"
-              depressed
-              :to="localePath(item.to)"
-              :href="item.href"
-              :target="item.target || null"
-              exact
-              >{{ $t(item.label) }}
-              <template v-if="item.target">
-                <v-icon class="ml-1">mdi-exit-to-app</v-icon>
-              </template></nuxt-link
-            >
+            <template v-if="item.to">
+              <nuxt-link
+                style="color: white; font-size: smaller"
+                depressed
+                :to="localePath(item.to)"
+                exact
+                >{{ $t(item.label) }}
+              </nuxt-link>
+            </template>
+            <template v-else>
+              <a
+                style="color: white; font-size: smaller"
+                depressed
+                :href="item.href"
+                :target="item.target || ''"
+                exact
+                >{{ $t(item.label) }}
+                <template v-if="item.target">
+                  <v-icon class="ml-1">mdi-exit-to-app</v-icon>
+                </template></a
+              >
+            </template>
           </v-col>
           <v-col cols="12" :md="3">
             <template v-if="$i18n.locale !== 'en'">
@@ -50,7 +60,7 @@
 </template>
 
 <script lang="ts">
-import { Prop, Component, Vue } from 'nuxt-property-decorator'
+import { Component, Vue } from 'nuxt-property-decorator'
 
 @Component({
   components: {},
